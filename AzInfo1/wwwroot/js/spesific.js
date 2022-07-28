@@ -66,7 +66,9 @@
         'contuning3':'Projeler',
         'contuning4':'Alınan',
         'contuning5':'Ödüller',
-        'contuning6':'Tüm Referanslarımız',
+          'contuning6': 'Tüm Referanslarımız',
+
+          //FOOTER
 
         'footersection1':'AZINFO TÜRKİYE',
         'footeradress1':'Altayçeşme Mh. Çamlı Sk. No:16 DAP Royal Center A Blk D.57 Maltepe/İstanbul',
@@ -91,7 +93,35 @@
         'Products5':'Kullanım Suyu Hatları',
         'Products6':'HVAC ve Endüstriyel Temizlik Ürünleri',
         'Products7':'Ters Osmoz (R.O.)',
-        'Products8':'Bakteri Uygulamaları',
+          'Products8': 'Bakteri Uygulamaları',
+
+          'footerend': '2021 © Azinfo Endüstriyel Danışmanlık',
+
+          //URUNLER
+
+          'ProductsMain': 'Ürünler',
+          'productDiscription': 'Özel donanımlı laboratuvarımızda yaptığımız düzenli analizlerele kiraç, korozyon ve mikrobiyolojik aktivasyon gibi risklere karşı önlem alıyoruz.',
+          'productItemTitle1': 'Buhar Üretim Sistem Kimyasalları',
+          'productItemTitle2': 'Soğutma Kulesi Sistemleri',
+          'productItemTitle3': 'Kapalı Devre Sistemleri',
+          'productItemTitle4': 'Dezenfeksiyon Ürünleri',
+          'productItemTitle5': 'Kullanım Suyu Hatları',
+          'productItemTitle6': 'HVAC ve Endüstriyel Temizlik Ürünleri',
+          'productItemTitle7': 'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
+          'productItemTitle8': 'Bakteri Uygulamaları',
+          'productItemDiscription': 'Detaylı Bilgi',
+
+          //REFERANSLAR
+
+          'communications': 'Referanslar',
+
+          //ILETISIM
+
+          'contact': 'İletişim',
+          'contactName1': 'Azinfo Türkiye',
+          'contactaAdress1': ' Altayçeşme, Çamlı Sok. No:16 DAP Royal Center A Blok K.13 D.57 34843 Maltepe/İstanbul',
+          'contactName2': 'Azinfo Bakü',
+          'contactaAdress2': 'Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN',
 
 
 
@@ -163,7 +193,9 @@
       'contuning3':'Projects',
       'contuning4':'Awards',
       'contuning5':'Recieved',
-      'contuning6':'All Our References',
+        'contuning6': 'All Our References',
+
+        //FOOTER
       
       'footersection1':'AZINFO TURKEY',
       'footeradress1':'Altayçeşme Mh. Çamlı Sk. No:16 DAP Royal Center A Blk D.57 Maltepe/İstanbul',
@@ -188,7 +220,35 @@
         'Products5':'Domestic Water Lines',
         'Products6':'HVAC and Industrial Cleaning Products',
         'Products7':'Reverse Osmosis (R.O.)',
-        'Products8':'Bacteria Applications',
+        'Products8': 'Bacteria Applications',
+
+        'footerend': '2021 © Azinfo Industrial Consulting',
+
+        //URUNLER
+
+        'ProductsMain': 'Products',
+        'productDiscription': 'We take precautions against risks such as scale, corrosion and microbiological activation through regular analyzes in our specially equipped laboratory.',
+        'productItemTitle1': 'Steam Production System Chemicals',
+        'productItemTitle2': 'Cooling Tower Systems',
+        'productItemTitle3': 'Closed Circuit Systems',
+        'productItemTitle4': 'Disinfection Products',
+        'productItemTitle5': 'Domestic Water Lines',
+        'productItemTitle6': 'HVAC and Industrial Cleaning Products',
+        'productItemTitle7': 'Reverse Osmosis (R.O.) Antifouling and Cleaning Products',
+        'productItemTitle8': 'Bacteria Applications',
+        'productItemDiscription': 'More information',
+
+        //REFERANSLAR
+
+        'communications': 'Communications',
+
+        //ILETISIM
+
+        'contact': 'Contact',
+        'contactName1': 'Azinfo Turkey',
+        'contactaAdress1': ' Altayçeşme, Çamlı Sok. No:16 DAP Royal Center A Blok K.13 D.57 34843 Maltepe/İstanbul',
+        'contactName2': 'Azinfo Baku',
+        'contactaAdress2': 'Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN',
 
     
     
@@ -262,14 +322,24 @@
       'contuning3':'Проекты',
       'contuning4':'Полученные',
       'contuning5':'Награды',
-      'contuning6':'Все наши рекомендации',
+        'contuning6': 'Все наши рекомендации',
+
+        //FOOTER
       
       'footersection1':'Azinfo Турция',
         'footeradress1':'Altayçeşme, Çamlı Sok. No:16 DAP Royal Center A Блок K.13 D.57 34843 Малтепе/Стамбул',
        'footersection2':'AZINFO Aзербайджан',
       'footeradress2':'Ясамал Району Ш.Гурбанов Кючеси № 21 Блок Б Мертебе 5 Мензил 8 Баку/АЗЕРБАЙДЖАН',
       
-      
+        'services': 'Услуги',
+        'services1': 'Служба очистки воды',
+        'services2': 'Лабораторные услуги',
+        'services3': 'Анализ на Легионеллу',
+        'services4': 'Переработкa',
+        'services5': 'Удаленное управление системами',
+        'services6': 'Сбор данных с помощью регистратора данных',
+        'services7': 'Системы удаления озоновых бактерий',
+        'services8': 'Система нейтрализации ',
 
       'Products':'Товары',
       'Products1':'Химические системы парагенераторов',
@@ -279,7 +349,35 @@
       'Products5':'Использование питьевых водопроводов',
       'Products6':'HVAC и промышленные чистящие средства',
       'Products7':'Обратный осмос',
-      'Products8':'Применение бактерий',
+        'Products8': 'Применение бактерий',
+
+        'footerend': '2021 © Azinfo Индастриал Консалтинг',
+
+        //URUNLER
+
+        'ProductsMain': 'Товары',
+        'productDiscription': 'Регулярно проводя анализы в нашей специально оборудованной лаборатории, мы принимаем меры предосторожности против таких рисков, как аренда, коррозия и микробиологическая активация.',
+        'productItemTitle1': 'Химические системы парагенераторов ',
+        'productItemTitle2': 'системы охлаждения',
+        'productItemTitle3': 'Замкнутые системы',
+        'productItemTitle4': 'Средства дезинфекции',
+        'productItemTitle5': 'Использование питьевых водопроводов',
+        'productItemTitle6': 'HVAC и промышленные чистящие средства',
+        'productItemTitle7': 'Обратный осмос',
+        'productItemTitle8': 'Применение бактерий',
+        'productItemDiscription': 'Дополнительная информация',
+
+        //REFERANSLAR
+
+        'communications': 'Ссылки',
+
+        //ILETISIM
+
+        'contact': 'Контакты',
+        'contactName1': 'Azinfo Турция ',
+        'contactaAdress1': 'Altayçeşme, Çamlı Sok. No:16 DAP Royal Center A Блок K.13 D.57 34843 Малтепе/Стамбул',
+        'contactName2': 'Azinfo Баку',
+        'contactaAdress2': 'Ясамальский район Ш. Гурбанов Село № 21 Блок B Уровень 5 Диапазон 8 Баку/АЗЕРБАЙДЖАН',
 
 
     

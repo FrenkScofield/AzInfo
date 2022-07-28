@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: AzInfo1, Configuration: Debug Any CPU ------
+1>AzInfo1 -> D:\az\AzInfo1\bin\Debug\net5.0\AzInfo1.dll
+1>AzInfo1 -> D:\az\AzInfo1\bin\Debug\net5.0\AzInfo1.Views.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
