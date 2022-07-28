@@ -123,8 +123,20 @@
           'contactName2': 'Azinfo Bakü',
           'contactaAdress2': 'Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN',
 
+          //BAKTERI UYGULAMALARI
 
+          'bacteriaApp':'Bakteri Uygulamaları',
 
+          //SYAFA NAVIQASYON
+
+          'steamNav': 'Buhar Üretim Sistem Kimyasalları',
+          'collingNav': 'Soğutma Kulesi Sistemleri',
+          'closedNav': 'Kapalı Devre Sistemleri',
+          'desinfectionNav': 'Dezenfeksiyon Ürünleri',
+          'domesticNav': 'Kullanım Suyu Hatları',
+          'HVACnav': 'HVAC ve Endüstriyel Temizlik Ürünleri',
+          'reverseNav': 'Ters Osmoz (R.O.)',
+          'bacteriaNav': 'Bakteri Uygulamaları',
 
 
     },
@@ -250,7 +262,23 @@
         'contactName2': 'Azinfo Baku',
         'contactaAdress2': 'Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN',
 
-    
+        //BAKTERI UYGULAMALARI
+
+        'bacteriaApp': 'Bacteria Applications',
+
+        //SYAFA NAVIQASYON
+
+        'steamNav': 'Steam Production System Chemicals',
+        'collingNav': 'Cooling Tower Systems',
+        'closedNav': 'Closed Circuit Systems',
+        'desinfectionNav': 'Disinfection Products',
+        'domesticNav': 'Domestic Water Lines',
+        'HVACnav': 'HVAC and Industrial Cleaning Products',
+        'reverseNav': 'Reverse Osmosis (R.O.)',
+        'bacteriaNav': 'Bacteria Applications',
+
+
+
     
     
     
@@ -378,6 +406,25 @@
         'contactaAdress1': 'Altayçeşme, Çamlı Sok. No:16 DAP Royal Center A Блок K.13 D.57 34843 Малтепе/Стамбул',
         'contactName2': 'Azinfo Баку',
         'contactaAdress2': 'Ясамальский район Ш. Гурбанов Село № 21 Блок B Уровень 5 Диапазон 8 Баку/АЗЕРБАЙДЖАН',
+
+        //BAKTERI UYGULAMALARI
+
+        'bacteriaApp': 'Применение бактерий',
+
+        //SYAFA NAVIQASYON1
+
+        'steamNav': 'Химические системы парагенераторов',
+        'collingNav': 'системы охлаждения',
+        'closedNav': 'Замкнутые системы',
+        'desinfectionNav': 'Средства дезинфекции',
+        'domesticNav': 'Использование питьевых водопроводов',
+        'HVACnav': 'HVAC и промышленные чистящие средства',
+        'reverseNav': 'Обратный осмос',
+        'bacteriaNav': 'Применение бактерий',
+
+
+
+
 
 
     
