@@ -42,6 +42,26 @@ namespace AzInfo1.Controllers
         {
             return View();
         }
+        public IActionResult bakteriUygulamalari()
+        {
+            return View();
+        }
+        public IActionResult buharUretimSistemKilimalari()
+        {
+            return View();
+        }
+        public IActionResult sogutmaKulesiSistemleri()
+        {
+            return View();
+        }
+        public IActionResult kapaliDevreSistemleri()
+        {
+            return View();
+        }
+        public IActionResult dezenfeksiyonUrunleri()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
