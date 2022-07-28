@@ -1,0 +1,75 @@
+// LESS related
+@import "core/variables.scss";
+
+// Defaults
+@import "core/base.scss";
+
+// Layout
+@import "core/grid.scss";
+@import "core/panel.scss";
+@import "core/block.scss";
+@import "core/article.scss";
+@import "core/comment.scss";
+@import "core/cover.scss";
+
+// Navs
+@import "core/nav.scss";
+@import "core/navbar.scss";
+@import "core/subnav.scss";
+@import "core/breadcrumb.scss";
+@import "core/pagination.scss";
+@import "core/tab.scss";
+@import "core/thumbnav.scss";
+
+// Elements
+@import "core/list.scss";
+@import "core/description-list.scss";
+@import "core/table.scss";
+@import "core/form.scss";
+
+// Common
+@import "core/button.scss";
+@import "core/icon.scss";
+@import "core/close.scss";
+@import "core/badge.scss";
+@import "core/alert.scss";
+@import "core/thumbnail.scss";
+@import "core/overlay.scss";
+@import "core/column.scss";
+@import "core/animation.scss";
+
+// JavaScript
+@import "core/dropdown.scss";
+@import "core/modal.scss";
+@import "core/offcanvas.scss";
+@import "core/switcher.scss";
+
+// Need to be loaded last
+@import "core/text.scss";
+@import "core/utility.scss";
+@import "core/flex.scss";
+@import "core/contrast.scss";
+@import "core/print.scss";
+
+// Components
+@import "components/accordion.scss";
+@import "components/autocomplete.scss";
+@import "components/datepicker.scss";
+@import "components/dotnav.scss";
+@import "components/form-advanced.scss";
+@import "components/form-file.scss";
+@import "components/form-password.scss";
+@import "components/form-select.scss";
+@import "components/htmleditor.scss";
+@import "components/nestable.scss";
+@import "components/notify.scss";
+@import "components/placeholder.scss";
+@import "components/progress.scss";
+@import "components/search.scss";
+@import "components/slidenav.scss";
+@import "components/slider.scss";
+@import "components/slideshow.scss";
+@import "components/sortable.scss";
+@import "components/sticky.scss";
+@import "components/tooltip.scss";
+@import "components/upload.scss";

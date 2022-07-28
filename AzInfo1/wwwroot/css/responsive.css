@@ -1,0 +1,1375 @@
+/* ==========================================================================
+   	MEDIA QUERIES.
+   ========================================================================== */
+@media (max-width:1700px) { 
+.inner-content-alt{
+    width: 80%;
+}    
+ 
+}
+
+@media (max-width:1600px) { 
+.grid-gallery-info{
+    padding: 18% 5% 12%;
+}
+    
+.ggt-caption{
+    top: 43%;
+    width: 50%;
+}
+    
+}
+
+@media (max-width:1500px) { 
+.inner-content-alt{
+    width: 90%;
+} 
+    
+.fc-content{
+    width: 80%;
+}
+   
+    
+}
+
+@media (max-width:1450px) { 
+.inner-content{
+    width: 100%;
+} 
+    
+.fc-content{
+    margin: 4.5rem 2rem;
+    width: 85%;
+}
+    
+}
+
+@media (max-width:1400px) { 
+.oc-testiminial-block{
+    padding: 2.5rem 0rem;  
+}
+
+.oc-testiminial-block .testimonial .testimonial-content{
+    width: 80%;
+}
+    
+.oc-testiminial-block .testimonial .testimonial-content p{
+    font-size: 16px;
+}
+    
+}
+
+@media (max-width:1300px) { 
+.inner-content{
+    padding: 2.5rem 1.5rem 2rem;
+    width: 100%;
+}
+    
+.fw-gallery-title{
+    width: 70%;
+    padding: 0% 10%;
+} 
+    
+.wide-banner-content{
+    width: 70%;
+}
+    
+.construction-wide-banner .wide-banner-content{
+    width: 70%;
+}
+    
+.hf-title{
+    width: 60%;
+}
+    
+.inner-content-alt{
+    padding: 2.5rem 1.5rem 2rem;
+    width: 100%;
+}
+    
+.grid-gallery-info{
+    padding: 21% 5% 12%;
+}
+    
+.grid-gallery-info p{
+   line-height: 1.7;
+}
+    
+.ggt-caption{
+    width: 70%;
+}
+    
+.fc-content{
+    margin: 4.5rem 1.5rem;
+    width: 90%;
+}
+    
+.sa-content{
+    padding: 4rem 2rem;
+    width: 95%;
+}
+
+}
+
+
+@media (max-width:1200px) { 
+.container{
+    max-width: 95%;
+}
+    
+.content-side{
+    width: 100%;
+    height: auto;
+    background-color: #134780;
+    margin-top: 2rem;
+    margin-left: -2rem; 
+} 
+    
+.lc-inner{
+    padding: 9%;
+}
+    
+.lc-icon{
+    width: 50px;
+}  
+    
+.counter-box .counter{
+    font-size: 3rem;
+    margin-top: -20px;
+}
+    
+.span-plus{
+    font-size: 2rem;
+}
+    
+.hf-title{
+    width: 70%;
+}
+    
+.quick-services{
+    margin-top: 20px;
+}
+
+.front-info p{
+   font-size: 14px;  
+    line-height: 1.7;
+}
+    
+.inner-quick-services p{
+    line-height: 1.5;
+    font-size: 13px;
+}
+    
+.inner-quick-services{
+    margin: 10px 0px;
+}
+    
+.construction-icon{
+    height: 90px;
+}
+    
+.content-side-alt{
+    width: 100%;
+    height: auto;
+    background-color: #134780;
+    margin-top: 2rem;
+    margin-left: -2rem; 
+}  
+    
+.span-services{
+    width: 95%;
+}
+    
+.grid-gallery-info{
+    padding: 14% 7% 10%;
+}
+    
+.ggt-caption{
+    width: 80%;
+}
+   
+.slider-caption-alt{
+    position: absolute;
+    top: 40%;
+    left: 0;
+    right: 0;
+    transform: translate(0%, 0%);
+    text-align: center;
+    padding: 0rem 2rem;
+}
+    
+.fc-content{
+    margin: 4.2rem 1.3rem;
+}
+    
+.span-checklist{
+    margin-top: 1rem;
+}
+    
+.sa-content{
+    width: 100%;
+}
+    
+.oc-testiminial-block .testimonial .testimonial-content{
+    width: 90%;
+}
+    
+.clients-section{
+    margin-top: -170px;
+}
+    
+.grid-layer .gl-icon{
+    width: 100px;
+}
+    
+.clients-wide-section{
+    padding: 14rem 0rem 0.8rem;
+    margin-top: -345px;
+}
+  
+  
+}
+    
+@media (max-width:1100px) { 
+.counter-section{
+    margin-top: -174px;
+    padding: 3rem 0rem 0.5rem;
+}
+    
+.lc-inner{
+    padding: 8% 7%;
+}
+    
+.lc-inner p{
+    font-size: 13px;
+    line-height: 1.6;
+}
+    
+.inner-content-alt{
+    padding: 2rem 1.5rem 2rem;
+}
+    
+.sp-counter .counter-statistics .counter{
+    font-size: 1rem;
+}  
+    
+.sp-counter .counter-statistics p{
+    margin-top: -4px;
+    font-size: 13px;
+}
+    
+.testimonials-section{
+    margin-top: -172px;
+    padding-top: 40px;
+}
+    
+.grid-gallery-info{
+    padding: 15% 7% 10%;
+}
+    
+.oc-testiminial-block{
+    padding: 3rem 0rem;   
+}
+    
+.oc-testiminial-block .testimonial .testimonial-content{
+    width: 100%;
+}
+    
+.oc-testiminial-block .testimonial{
+    padding: 0px 20px;
+}
+    
+.lc-content{
+    padding: 0rem 2rem;
+}
+
+}
+
+
+@media (max-width:992px) { 
+html {
+    font-size: 22px;
+}  
+
+.footer-col{
+    margin-bottom: 2rem;
+}
+
+.last-col{
+    margin-bottom: 0px;
+}
+    
+.top-header{
+    display: none;
+}
+    
+.content-side{
+    width: 100%;
+    height: auto;
+    background-color: #134780;
+    margin-top: 0rem;
+    margin-left: 0rem; 
+}
+    
+.inner-content{
+    padding: 2.5rem 1.5rem 2rem;
+}
+    
+.sp-space-break{
+    margin-top: 1rem;
+} 
+    
+.counter-section{
+    margin-top: -70px;
+    padding: 1rem 0rem;
+}
+    
+.clients-wide-section{
+    margin-top: -330px;
+}
+    
+.testimonials-parallax .owl-carousel{
+    max-width:700px;
+}
+    
+.fw-gallery-title{
+    width: 80%;
+}  
+    
+.sb-desktop-view{
+    margin-top: 0rem;
+}
+    
+.sb-caption{
+    background-color: #FFF;
+    padding: 1rem 1rem 2rem;
+}
+    
+.wide-banner-content{
+    width: 80%;
+}
+    
+.construction-wide-banner .wide-banner-content{
+    width: 80%;
+}
+    
+.construction-services{
+    margin-top: -190px;
+}
+    
+.services-tittle{
+    width: 80%;
+}
+
+.section-title{
+    width: 70%
+}
+    
+.hero{
+    width: 70%;
+}
+    
+.hero-content{
+    top: 50%;;
+} 
+    
+.social-bar{
+    margin-top: 6rem;
+}
+    
+.lc-inner{
+    padding: 8% 8% 10%;
+    text-align: center;
+} 
+    
+.desktop-last-grid{
+    margin-bottom: 1.5rem;
+}
+    
+.last-grid{
+    margin-bottom: 0rem;
+}
+    
+.carousel-item, .home-slider {
+  height: 650px;
+}
+    
+.carousel-control-prev,
+.carousel-control-next {
+  display: none;
+}
+    
+.display-4{
+    color: #FFF;
+    font-size: 2rem;
+    line-height: 1.2;
+}
+    
+.slider-caption-alt .display-4{
+    color: #FFF;
+    font-size: 2rem;
+    line-height: 1.2;
+}
+
+.lead{
+    font-size: 17px;
+    width: 70%; 
+    line-height: 1.6;
+}
+    
+.slider-caption-alt .lead{
+    font-size: 17px;
+    width: 70%; 
+    line-height: 1.6;
+}
+    
+.layer-counter{
+    padding: 0px 20px
+}
+    
+.lc-content{
+    position: absolute;
+    padding: 0rem 1rem;
+    right: 0px;
+}
+    
+
+    
+.grid-layer .gl-caption{
+    position: absolute;
+    bottom: 10px;
+    padding: 30px;
+    left: 1rem;
+    z-index: 2;
+    text-align: left;
+}
+    
+p.gallery-info{
+    width: 80%;
+    margin-bottom: 1rem;
+}
+    
+.section-thumbnails{
+    margin-top: -130px;
+}
+    
+.hf-title{
+    width: 90%;
+}
+    
+.inner-stripe-1, .inner-stripe-2, .inner-stripe-3{
+    padding: 25px;
+    height: 100%;
+}
+
+.stripe-icon{
+    margin-right: 15px;
+    width: 55px;
+    height: 55px;
+}
+
+.content-side-alt{
+    width: 100%;
+    height: auto;
+    background-color: #134780;
+    margin-top: 0rem;
+    margin-left: 0rem; 
+}
+    
+.inner-content{
+    padding: 2.5rem 1.5rem 2rem;
+}
+    
+.sp-space-break{
+    margin-top: 1rem;
+}
+
+.sp-counter .counter-statistics .counter{
+    font-size: 1.5rem;
+}  
+    
+.sp-counter .counter-statistics p{
+    margin-top: -2px;
+    font-size: 15px;
+}
+    
+.testimonials-section{
+    margin-top: -4rem;
+    padding-top: 0px;
+}
+    
+.testimonials-section .testimonial{
+    margin-top: 2rem;
+}
+    
+.grid-gallery-info{
+    padding: 18% 7% 10%;
+}
+    
+.ggt-caption{
+    width: 90%;
+}
+    
+.energy-front-boxes{
+    margin-top: 3rem;
+}
+         
+.oc-testiminial-block .testimonial .testimonial-content{
+    width: 70%;
+}
+    
+.clients-section{
+    margin-top: -60px;
+    padding: 1rem 0rem;
+}
+    
+.grid-layer .gl-icon{
+    width: 80px;
+}
+    
+.grid-layer:hover .gl-icon{
+    width: 60px;
+}
+    
+.grid-layer .gl-caption{
+    padding: 20px;
+}
+    
+.alt-counter-parallax{ 
+    padding: 1.2rem 0rem 1.3rem;
+}
+    
+.home-team{
+    margin-top: -140px;
+}
+    
+    
+.sa-content{
+    padding: 6rem 3rem;
+    width: 100%;
+}
+    
+.popup-video-section{
+    margin-top: -150px;
+}
+    
+a.btn-slider {
+  padding: 10px 30px;
+}
+    
+a.btn-hover-corner{
+  padding: 10px 30px;
+}
+    
+.og-info{
+    margin-top: 2rem;
+}
+    
+.footer-col .footer-logo{
+    width: 150px;
+}
+
+    
+}
+
+@media (max-width:991px) { 
+.space-break{
+    margin-top: 2rem;
+}
+
+.center-box{
+    margin: 1rem 0rem;
+}
+    
+.c-breakpoint{
+    margin-top: 2rem;
+}
+    
+.span-services{
+    width: 80%;
+}
+
+.sp-icon-box{
+    width: 50px;
+    height: 70px;
+    margin-right: 20px;;
+    float: left;
+    margin-bottom: 20px;
+}
+    
+sp-space-break{
+    margin-top: 1.5rem;
+}
+    
+.alt-counter-parallax .counter-statistics{
+    width: 60%;
+    margin: auto auto 10px;
+}
+    
+.full-caption-layer{
+    height: 100%;
+}
+    
+.fc-content{
+    margin: 3rem 1.3rem 3rem;
+}
+    
+.sa-content{
+    padding: 3rem;
+    width: 80%;
+}
+    
+.gt-tablet-view{
+    margin-top: 2rem;
+}
+    
+.sb-tablet-view{
+    margin-top: 2rem;
+}
+    
+       
+.tp-tablet-view{
+    margin-top: 2rem;
+} 
+    
+.order-md-6 {
+    -ms-flex-order: 6;
+    order: 6;
+}
+    
+.order-first {
+  -ms-flex-order: -1;
+  order: -1;
+}
+
+.order-last {
+  -ms-flex-order: 13;
+  order: 13;
+}
+    
+.order-md-12 {
+    -ms-flex-order: 6;
+    order: 6;
+}
+    
+.order-first {
+  -ms-flex-order: -1;
+  order: -1;
+}
+
+.order-last {
+  -ms-flex-order: 13;
+  order: 13;
+}
+    
+.about-info{
+    padding-right: 0px;
+}
+    
+.wide-banner{
+    padding: 3rem 2rem 6rem;
+}
+    
+.content-box h5{
+   font-size: 14px;
+}
+    
+.full-thumb-layer, .full-thumb-layer-alt{
+    height: 400px; 
+} 
+    
+.contact-form-3{
+    margin: -250px auto auto;
+}
+    
+}
+
+
+
+@media (max-width:768px) { 
+.fb-copyright{
+    float: none;
+    margin-bottom: 10px;
+}
+    
+.fb-social{
+    float: none;
+}
+    
+.sections{
+    height: 400px; 
+}
+    
+.inner-content{
+    padding: 2.5rem 1rem 2rem;
+} 
+    
+.clients-wide-section{
+    padding: 3rem 0rem 5px;
+    background-color: #F7FAFA;
+    margin: 0rem;
+    margin-top: 2rem;
+}
+    
+.testimonials-parallax .owl-carousel{
+    max-width:100%;
+}  
+    
+.testimonial{
+    padding: 0px 20px;
+}
+
+.testimonial .testimonial-content{
+    width: 100%;
+}
+    
+.inner-span-alt{
+    margin-bottom: 2rem;
+}  
+    
+.fw-gallery-title{
+    width: 90%;
+    padding: 0% 5%;
+}   
+    
+.fw-gallery-title p{
+    line-height: 1.6;
+    font-size: 14px;
+}
+    
+.sb-movil-view{
+    margin-top: 2rem;
+}   
+   
+.wide-banner-content{
+    width: 90%;
+    padding: 0% 5%;
+}
+    
+.construction-wide-banner .wide-banner-content{
+    width: 90%;
+    padding: 0% 5%;
+}
+    
+.services-tittle{
+    width: 90%;
+}
+    
+.section-title{
+    width: 80%
+}
+
+.tp-movil-view{
+    margin-top: 2rem;
+}
+    
+.error-page-container{ 
+    height: 700px; 
+}
+    
+.ep-content h1{
+    font-size: 3rem;
+}
+    
+.wrapper header{
+    height: 400px;
+}  
+
+.hero{
+    width: 100%;
+}   
+    
+.hero-content{
+    top: 40%;
+} 
+    
+.grid-sizer,
+.grid-box {
+  width: 50%;
+}
+    
+.carousel-item, .home-slider {
+  height: 600px;
+}
+    
+.layer-counter{
+    position: relative;
+    height: 200px;
+} 
+    
+p.gallery-info{
+    font-size: 14px;
+    width: 90%;
+}
+    
+.hf-title{
+    width: 95%;
+}
+    
+.inner-content-alt{
+    padding: 2.5rem 1rem 2rem;
+} 
+    
+.testimonials-section .owl-carousel{
+    max-width:100%;
+}  
+    
+.testimonials-section .testimonial{
+    padding: 0px 20px;
+}
+
+.testimonials-section .testimonial .testimonial-content{
+    width: 100%;
+}
+    
+.grid-gallery-info{
+    padding: 3rem 1rem;
+}  
+    
+.shadow-center-table{
+    margin: 2rem 0rem;
+}
+    
+.ggt-caption{
+    width: 50%;
+}
+    
+.middle-box, .middle-box-alt{
+    margin: 1rem 0rem;
+}
+    
+.slider-caption-alt{
+    top: 40%;
+    padding: 0rem;
+}
+    
+.sa-content{
+    padding: 3rem;
+    width: 90%;
+}  
+    
+.oc-testiminial-block .testimonial .testimonial-content{
+    width: 80%;
+}
+    
+.alt-counter-parallax .counter-statistics{
+    width: 80%;
+}
+
+.sp-space-break-alt{
+    margin-top: 10px;
+}  
+    
+a.btn-slider {
+    padding: 10px 28px;
+    font-size: 13px;
+}
+       
+a.btn-hover-corner {
+    padding: 10px 28px;
+    font-size: 13px;
+}
+    
+.home-front{
+    padding: 3rem 1rem 6rem;
+}
+    
+.wide-banner{
+    padding: 3rem 1rem 6rem;
+}
+    
+.footer-col .footer-logo{
+    width: 140px;
+}
+    
+.right-col{
+    border-right: none;
+}
+    
+.grid-bottom-col{
+    border-bottom: solid 1px #ddd;
+}
+    
+.last-col-grid{
+    border-bottom: none;
+}
+    
+}
+
+
+@media (max-width:576px) { 
+.sections{
+    height: 300px; 
+}
+    
+.pages-title{
+    width: 70%;
+}
+    
+.c-movil-breakpoint{
+    margin-top: 2rem;
+}
+    
+.testimonial .client-avatar{
+    width: 80px;
+    height: 80px;
+}
+    
+.testimonial .testimonial-content p{
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.gt-movil-view{
+    margin-top: 2rem;
+}
+    
+.fw-gallery-title{
+    width: 95%;
+} 
+    
+.sb-icon-box{
+    width: 60px;
+    height: 60px;
+    margin-top: -30px;
+}
+    
+.sb-icon{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+    
+.wide-banner-content{
+    width: 95%;
+}    
+    
+.wide-banner-content p{
+    font-size: 14px;
+    line-height: 1.6;
+}
+    
+.construction-wide-banner .wide-banner-content{
+    width: 95%;
+}
+    
+.construction-wide-banner{
+    padding: 3rem 1rem 8rem;
+}
+    
+.construction-wide-banner .wide-banner-content p{
+    font-size: 14px;
+    line-height: 1.6;
+}
+    
+.services-tittle{
+    width: 95%;
+} 
+    
+.services-tittle p{
+    font-size: 14px;
+}
+    
+.section-title{
+    width: 90%
+}   
+    
+.section-title p{
+    font-size: 14px;
+}
+    
+.error-page-container{ 
+    height: 550px; 
+}
+    
+.ep-content{
+    top: 45%;
+    left: 0%;
+    transform: translate(0%, 0%);
+    padding: 0px 2rem;
+}
+    
+.ep-content h1{
+    font-size: 2.5rem;
+}
+    
+.hero-content{
+    padding: 0rem 2rem;
+} 
+    
+.hero-content p{
+    font-size: 14px;
+    line-height: 1.6;
+ }
+    
+.form-box{
+    max-width: 100%;
+    margin: 2rem auto;
+    padding: 1rem 1rem 1.2rem;
+}
+    
+.social-bar{
+    margin-top: 7rem;
+}
+    
+.newsletter .input {
+  	width: 60%;
+  	height: 35px;
+}
+    
+.newsletter .button {
+  	width: 40%;
+  	height: 35px;
+  	font-size: 13px;
+}
+    
+.grid-sizer,
+.grid-box {
+  width: 100%;
+}
+    
+.user-avatar{
+    width: 70px;
+    height: 150px;
+}
+    
+p.comment{
+    font-size: 13px;
+}
+    
+blockquote{
+    font-size: 14px;
+    line-height: 1.6;
+}
+    
+.carousel-item, .home-slider {
+  height: 580px;
+}
+    
+.display-4{
+    font-size: 1.5rem;
+} 
+    
+.slider-caption-alt .display-4{
+    font-size: 1.5rem;
+}
+
+.lead{
+    font-size: 16px;
+    width: 80%; 
+    line-height: 1.6;
+}
+    
+.slider-caption-alt .lead{
+    font-size: 16px;
+    width: 80%; 
+    line-height: 1.6;
+}
+    
+p.gallery-info{
+    width: 95%;
+}
+    
+.filter-container{
+	text-align: center;
+}
+    
+.filter li {
+    font-size: 14px;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 1.8;
+    padding: 0 5px;
+}
+    
+.sp-counter-center{
+    margin: 1rem 0rem;
+}
+    
+.testimonials-section .testimonial .client-avatar{
+    width: 80px;
+    height: 80px;
+}
+    
+.testimonials-section .testimonial .testimonial-content p{
+    font-size: 14px;
+    line-height: 1.6;
+}
+    
+.ggt-caption{
+    width: 70%;
+}
+    
+.oc-testiminial-block .testimonial .testimonial-content{
+    width: 80%;
+}
+    
+.oc-testiminial-block .testimonial .testimonial-content p{
+    font-size: 14px;
+}
+    
+.alt-counter-parallax .counter-statistics{
+    width: 90%;
+}
+    
+.inner-content{
+    padding: 2.5rem 0.6rem 2rem;
+} 
+    
+.span-services{
+    width: 100%;
+}
+    
+.sp-space-break-alt{
+    margin-top: 20px;
+}  
+    
+.counter-statistics p{
+    font-size: 16px;
+}
+    
+.lead{
+    font-size: 15px;
+}  
+    
+.slider-caption-alt .lead{
+    font-size: 15px;
+}
+    
+.slider-caption{
+    top: 37%;
+}
+    
+a.btn-slider {
+    padding: 8px 25px;
+    font-size: 12px;
+}  
+    
+a.btn-hover-corner {
+    padding: 8px 25px;
+    font-size: 12px;
+}
+
+.home-front{
+    padding: 3rem 0.5rem 6rem;
+}
+    
+.thumbnail-box .caption h5{
+    font-size: 14px;
+}  
+    
+.wide-banner{
+    padding: 3rem 0.5rem 6rem;
+}
+    
+.wide-banner-content{
+    width: 100%;
+}
+    
+.gl-caption .btn-more .btn-custom {
+  padding: 4px 16px;
+  font-size: 12px;
+}
+    
+.sa-content{
+    padding: 3rem 2rem;
+    width: 100%;
+} 
+    
+.parallax-side-alt-2, .parallax-side{
+    height: 400px; 
+}
+    
+.form-box h3{
+    font-size: 18px;
+}
+    
+.site-pagination{
+    width: 170px;
+}
+    
+.contact-form-3{
+    padding: 40px;
+}
+    
+.accordion a {
+    font-size: 16px;
+}
+    
+.footer-col .footer-logo{
+    width: 120px;
+}
+
+    
+}
+
+@media (max-width:480px) { 
+html {
+    font-size: 20px;
+}
+    
+h2, .h2 {
+    line-height: 1.3;
+}
+    
+h3, .h3 {
+    font-size: 22px;
+}
+    
+h4, .h4 {
+    font-size: 18px;
+}
+
+    
+p {
+  font-size: 14px;
+}  
+    
+.user-avatar{
+    float: none;
+    margin: 0px auto 20px auto;
+    width: 60px;
+    height: 60px;
+}
+    
+.comment-details{
+    text-align: center;
+}
+    
+.lead{
+    font-size: 14px;
+    width: 80%; 
+    line-height: 1.5;
+} 
+    
+.slider-caption-alt .lead{
+    font-size: 14px;
+    width: 80%; 
+    line-height: 1.5;
+}
+    
+.ggt-caption{
+    width: 80%;
+}
+    
+.panel-title h2{
+    font-size: 26px;
+}
+    
+.pages-title span{
+    font-weight: 600;
+    font-size: 1.8rem;
+}
+    
+.pp-bottom{
+    height: 100%;
+}
+    
+    
+.about-author{
+    float: none;
+    width: 100%;
+}
+    
+.author-avatar{
+    width: 50px;
+    height: 50px;
+    float: none;
+   margin: auto;
+}
+
+.author-info{
+    text-align: center;
+}
+    
+.post-social{
+    float: none;
+    text-align: center;
+}
+    
+.author-info h5{
+    line-height: 2;
+}   
+
+.author-info p{
+    color: #25A8DF;
+}
+    
+.site-pagination{
+    width: 160px;
+}
+    
+.contact-form-3{
+    padding: 30px;
+}
+    
+.og-accordion .accordion a{
+    font-size: 15px;
+}
+    
+.accordion a {
+    font-size: 15px;
+    line-height: 1.7;
+    margin: 10px 0px
+}
+    
+.accordion li {
+    padding-right: 20px;
+}
+    
+.accordion a:after {
+    top: 10px;
+
+}
+  
+.construction-wide-banner .wide-banner-content{
+    width: 100%;
+    padding: 0px 10px;
+}
+    
+}
+
+@media (max-width:350px) { 
+.slider-caption-alt .display-4{
+    font-size: 1.2rem;
+}  
+    
+.ggt-caption{
+    width: 90%;
+}
+    
+.ggt-caption h3{
+    font-size: 18px;
+}  
+    
+.ggt-caption p{
+    font-size: 13px;
+}
+    
+.grid-gallery-info p{
+    font-size: 13px;
+}
+    
+.span-checklist p{
+    font-size: 13px;
+}
+    
+.sp-caption p{
+    font-size: 13px;
+}
+    
+.testimonial .testimonial-content p{
+    font-size: 13px;
+}
+    
+.ep-content{
+    top: 35%;
+    padding: 0px 1rem;
+}
+  
+    
+}

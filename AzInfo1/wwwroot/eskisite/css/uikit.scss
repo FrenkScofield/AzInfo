@@ -1,0 +1,12 @@
+@import "../library/uikit/scss/uikit-mixins.scss";
+
+// your custom code goes here, e.g. mixins, variables
+
+$utility-container-large-max-width:              1170px !default;
+$utility-container-large-padding-horizontal:     0px !default;
+$utility-container-padding-horizontal:           10px !default;
+$breakpoint-xlarge:                              1200px !default;
+$breakpoint-large:                               980px !default;
+
+@import "../library/uikit/scss/uikit.scss";
+@import "../library/uikit/scss/components/autocomplete.scss";

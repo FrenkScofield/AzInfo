@@ -1,0 +1,422 @@
+﻿<!DOCTYPE html>
+
+<html lang="en-US" class="no-js">
+
+
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+
+    <!-- TITLE -->
+
+    <title>Azinfo Endüstriyel Danışmanlık</title>
+
+
+
+    <!-- META TAGS -->
+
+    <meta name="keywords" content="">
+
+    <meta name="description" content="">
+
+
+
+    <!--  FAVICON  -->
+
+    <link rel="shortcut icon" href="~/img/master/favicon.png">
+
+
+
+    <!-- BOOTSTRAP FRAMEWORK STYLES -->
+
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+
+
+
+    <!-- FONT AWESOME ICONS LIBRARY -->
+
+    <link rel="stylesheet" href="~/fonts/css/all.min.css">
+
+
+
+    <!-- MAIN CSS STYLE SHEET -->
+
+    <link rel="stylesheet" href="~/css/navigation.css">
+
+    <link rel="stylesheet" href="~/css/stylesheet.css">
+
+    <link rel="stylesheet" href="~/css/responsive.css">
+
+    <link rel="stylesheet" href="~/css/slick.min.css">
+
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+
+
+
+    <!-- MODERNIZR LIBRARY -->
+
+    <script src="~/js/modernizr-custom.js"></script>
+
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+    <!-- LOADER -->
+
+    <div id="loader-wrapper">
+
+        <div id="loader"></div>
+
+    </div>
+
+    <!-- LOADER -->
+    <!--HEADER START-->
+
+    <header>
+
+        <!--MEGAMENU START-->
+
+        <div class="main-nav" id="navbar">
+
+            <div class="container">
+
+                <nav id="navigation1" class="navigation">
+
+                    <div class="nav-header">
+
+                        <a class="nav-logo" href="index.html">
+
+                            <img src="~/img/master/azinfo-logo.svg" class="white-logo" alt="Azinfo Logo">
+
+                        </a>
+
+                        <div class="nav-toggle"></div>
+
+                    </div>
+
+                    <div class="nav-menus-wrapper">
+
+                        <ul class="nav-menu align-to-right">
+
+                            <li><a   asp-controller="Home" asp-action="Index" class="lang" key="ANASAYFA">ANASAYFA</a></li>
+
+                            <li><a   asp-controller="Home" asp-action="hakkimizda" class="lang" key="KURUMSAL">KURUMSAL</a></li>
+
+                            <li><a asp-controller="Home" asp-action="hizmetler" class="lang" key="HİZMETLER">HİZMETLER</a></li>
+
+                            <li><a asp-controller="Home" asp-action="urunler" class="lang" key="ÜRÜNLER">ÜRÜNLER</a></li>
+
+                            <li><a asp-controller="Home" asp-action="referanslar" class="lang" key="REFERANSLAR">REFERANSLAR</a></li>
+
+                            <li><a asp-controller="Home" asp-action="iletisim" class="lang" key="İLETİŞİM">İLETİŞİM</a></li>
+
+
+                            <li>
+                                <a href="#" id="tr" class="translate">TR</a>
+
+                                <ul class="nav-dropdown">
+
+                                    <li><a href="#" id="en" class="translate">EN</a></li>
+
+                                    <li><a href="#" id="ru" class="translate">RU</a></li>
+
+                                </ul>
+
+                            </li>
+
+
+
+
+                        </ul>
+
+
+                    </div>
+
+                </nav>
+
+
+            </div>
+
+        </div>
+
+        <!--MEGAMENU END-->
+
+    </header>
+
+    <!--HEADER END-->
+    @RenderBody()
+    <!-- FOOTER START -->
+
+    <footer>
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-lg-3">
+
+                    <div class="footer-col">
+
+
+
+                        <h4 class="lang" key="footersection1">AZINFO TÜRKİYE</h4>
+
+                        <div class="footer-icon">
+
+                            <div class="span-fi">
+
+                                <div class="fi-fas"><i class="fas fa-map-marker"></i></div>
+
+                                <div class="fi-caption">
+
+                                    <p class="lang" key="footeradress1">Altayçeşme Mh. Çamlı Sk. No:16 DAP Royal Center A Blk D.57 Maltepe/İstanbul</p>
+
+                                </div>
+
+                            </div>
+
+                            <div class="span-fi">
+
+                                <div class="fi-fas"><i class="fas fa-phone"></i></div>
+
+                                <div class="fi-caption">
+
+                                    <p>+90 216 661 46 77</p>
+
+                                </div>
+
+                            </div>
+
+                            <div class="span-fi">
+
+                                <div class="fi-fas"><i class="fas fa-envelope"></i></div>
+
+                                <div class="fi-caption">
+
+                                    <p>info@azinfo.com.tr</p>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <figure class="footer-logo"><img src="~/img/images/azinfo-beyaz-logo.svg" alt=""></figure>
+
+
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-3">
+
+                    <div class="footer-col">
+
+                        <h4 class="lang" key="footersection2">AZINFO AZERBAYCAN</h4>
+
+                        <div class="footer-icon">
+
+                            <div class="span-fi">
+
+                                <div class="fi-fas"><i class="fas fa-map-marker"></i></div>
+
+                                <div class="fi-caption">
+
+                                    <p class="lang" key="footeradress2">
+                                        Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN
+                                    </p>
+
+                                </div>
+
+                            </div>
+
+                            <div class="span-fi">
+
+                                <div class="fi-fas"><i class="fas fa-phone"></i></div>
+
+                                <div class="fi-caption">
+
+                                    <p>(+994) 12 555 7051</p>
+
+                                </div>
+
+                            </div>
+
+                            <div class="span-fi">
+
+                                <div class="fi-fas"><i class="fas fa-envelope"></i></div>
+
+                                <div class="fi-caption">
+
+                                    <p>info@azinfo.com.tr</p>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-3">
+
+                    <div class="footer-col">
+
+                        <h4 class="lang" key="services">HİZMETLER</h4>
+
+                        <div class="popular-links">
+
+                            <ul>
+
+                                <li><a class="lang" key="services1" href="su-sartlandirma-hizmeti.html">Su Şartlandırma Hizmeti</a></li>
+
+                                <li><a class="lang" key="services2" href="laboratuvar-hizmetleri.html">Laboratuvar Hizmetleri</a></li>
+
+                                <li><a class="lang" key="services3" href="legionella-analizleri.html">Legionella Analizleri</a></li>
+
+                                <li><a class="lang" key="services4" href="geri-kazanim.html">Geri Kazanım</a></li>
+
+                                <li>
+                                    <a class="lang" key="services5" href="sistemlerin-uzaktan-kontrol-edilmesi.html">
+                                        Sistemlerin Uzaktan Kontrol
+                                        Edilmesi
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a class="lang" key="services6" href="datalogger-ile-verilen-toplanmasi.html">
+                                        Datalogger İle Verilerin
+                                        Toplanması
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a class="lang" key="services7" href="ozonla-bakteri-giderim-sistemleri.html">
+                                        Ozonla Bakteri Giderim
+                                        Sistemleri
+                                    </a>
+                                </li>
+
+                                <li><a class="lang" key="services8" href="notralizasyon-sistemleri.html">Nötralizasyon Sistemi</a></li>
+
+
+
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-3">
+
+                    <div class="footer-col last-col">
+
+                        <h4 class="lang" key="Products">ÜRÜNLER</h4>
+
+                        <div class="popular-links">
+
+                            <ul>
+
+                                <li>
+                                    <a class="lang" key="Products1" href="buhar-uretim-sistem-kimyasallari.html">Buhar Üretim Sistem Kimyasalları</a>
+                                </li>
+
+                                <li><a class="lang" key="Products2" href="sogutma-kulesi-sistemleri.html">Soğutma Kulesi Sistemleri</a></li>
+
+                                <li><a class="lang" key="Products3" href="kapali-devre-sistemleri.html">Kapalı Devre Sistemleri</a></li>
+
+                                <li><a class="lang" key="Products4" href="dezenfeksiyon-urunleri.html">Dezenfeksiyon Ürünleri</a></li>
+
+                                <li><a class="lang" key="Products5" href="kullanim-suyu-hatlari.html">Kullanım Suyu Hatları</a></li>
+
+                                <li style="width: 265px; ;"><a class="lang" key="Products6" href="hvac.html">HVAC ve Endüstriyel Temizlik Ürünleri</a></li>
+
+                                <li><a class="lang" key="Products7" href="ters-osmoz.html">Ters Osmoz (R.O.)</a></li>
+
+                                <li><a class="lang" key="Products8" href="bakteri-uygulamalari.html">Bakteri Uygulamaları</a></li>
+
+                            </ul>
+
+                        </div>
+
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <hr class="divider">
+
+            <div class="footer-bottom">
+
+                <div class="fb-copyright">
+
+                    <p>2021 © Azinfo Endüstriyel Danışmanlık</p>
+
+                </div>
+
+                <div class="fb-social">
+
+                    <div>
+                        <a href="https://www.dijital34.com" target="_blank" title="Web & Dijital Pazarlama Ajansı">
+                            <img src="~/img/images/dijital34-logo.svg">
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+    <!-- FOOTER END -->
+    <!--SCROLL TOP START-->
+
+    <a href="#0" class="cd-top">Top</a>
+
+    <!--SCROLL TOP START-->
+    <!-- JAVASCRIPTS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js" integrity="sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="~/js/spesific.js"></script>
+
+    <script src="~/js/plugins.js"></script>
+
+    <script src="~/js/bootstrap.min.js"></script>
+
+    <script src="~/js/main.js"></script>
+
+    <script src="~/js/navigation.js"></script>
+    <!-- JAVASCRIPTS END -->
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+
+
+</html>
+

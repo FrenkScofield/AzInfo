@@ -1,0 +1,18 @@
+# Sample .htaccess file for document root
+
+#<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Set base path for rewrite
+RewriteBase /
+
+# Restrict domain access for www usage (optional)
+RewriteCond %{HTTP_HOST} ^domain.com [NC]
+RewriteRule ^(.*)$ http://www.domain.com/$1 [L,R=301]
+
+# Redirect to index.php for not valid files 
+# (required for canonical url types without script name)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
+#</IfModule>
