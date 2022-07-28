@@ -411,7 +411,7 @@
 
         'bacteriaApp': 'Применение бактерий',
 
-        //SYAFA NAVIQASYON1
+        //SYAFA NAVIQASYON
 
         'steamNav': 'Химические системы парагенераторов',
         'collingNav': 'системы охлаждения',
