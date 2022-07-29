@@ -138,6 +138,84 @@
           'reverseNav': 'Ters Osmoz (R.O.)',
           'bacteriaNav': 'Bakteri Uygulamaları',
 
+          'bacteriaApp12': 'Hizmetler- Bakteri Uygulamaları Yağ giderleri, yağ tutucular, mutfaklar, tuvaletler, musluklar, fosseptikler ve rögarlara uygulanan özel formüllü kimyasallarımız ile;',
+          'bacter':'Mutfak yer giderlerinden gelen kokular ve tıkanma sorunları kesilir.',
+          'bacteriaApp2': 'Yağ tutucularda biriken yağlar dönüştürülerek yağ toplama periyodu uzatılır.',
+          'bacteriaApp3': 'Tüm tesisatta H2S korozyonunu önlenir.',
+          'bacteriaApp4': 'Mobil tuvaletlerdeki birikintiler parçalanır. Koku sorunları kesilir.',
+          'bacteriaApp5': 'Mutfak egzozlarından yayılan kokular kesilir.',
+          'bacteriaApp6': 'Fosseptiklerin geçirgenliği arttırılır. Koku sorunları kesilir.',
+          'bacteriaApp7': 'Manuel temizlik için ulaşılamayan noktalarda bakterilerin kalıcı etkisiyle uzun süreli temizlik sağlanır.',
+          'bacteriaApp8': 'Duş giderlerindeki tıkanmalar önlenir.',
+          'bacteriaApp9': 'Ürünlerin formülünde yer alan koku nötralize edicilerle rahatsız edici kokular ani olarak kesilir. Ardından mikroorganizmalar çalışmaya başlayıp koku kaynağını yok eder.',
+          'bacteriaApp11': 'Uygulanması ekonomiktir, kendi alanında iş güvenliği açısından en az risk taşıyan yöntemdir.',
+
+          //buhar uretim sistemi kimyasallari
+
+          'BUSK': 'Buhar Üretim Sistem Kimyasalları',
+          'BUSK1': 'Buhar Üretim Kimyasalları',
+          'BUSK2': 'Oksijen Alıcı Ürünler',
+          'BUSK3': 'Depozit Önleyici Ürünler',
+          'BUSK4': 'Kondens Şartlandırıcı Ürünler',
+          'BUSK5': 'Buhar ve Kondens Hatları Korozyon Önleyici Ürünler',
+
+          //dezenfeksiyon urunleri
+
+          'DF': 'Dezenfeksiyon Ürünleri',
+          'DF1':'Soğutma Kulesi Kapalı Devre ve Kullanım Sularında Bakteri Önleyici Ürünler',
+
+          //hvac
+
+          'hvac': 'HVAC ve Endüstriyel Temizlik Ürünleri',
+          'hvac1': 'Asit İçermeyen Sentetik Torba Filtre Temizleyici',
+          'hvac2': 'Asit İçermeyen Alüminyum Serpantin Temizleyici',
+          'hvac3': 'Durulama Gerektirmeyen Alüminyum Serpantin Temizleyici',
+          'hvac4': 'Atık Su ve Çöktürme Tesisleri İçin Polielektrolitler',
+          'hvac5': 'İnhibitörlü Kireç Temizleyici',
+          'hvac6': 'İnhibitörlü Kireç Temizleyici',
+          'hvac7': 'Alüminyum Yüzeylerde Kireç Temizleyici',
+          'hvac8': 'Kazan Devreye Alma-Pasivasyon Kimyasalı',
+          'hvac9': 'Metal Yüzeylerde Alkali Temizleyici',
+          'hvac11': 'Demir ve Bakır İnhibitörü',
+          'hvac12': 'Demir Depozitleri Temizlik Kimyasalı',
+          'hvac13': 'Nötr Özellikli Temizleyici',
+          'hvac14': 'Krom Metaline Zarar Vermeyen Temizleyici',
+          'hvac15': 'Kromlu Paslanmaz Metale Zarar Vermeyen Temizleyici',
+          'hvac16': 'Köpük Önleyici',
+          'hvac17': 'Silika Depozitleri Temizlik Kimyasalı ',
+          'hvac18': 'Yumuşatma Sistemleri İçin Reçine Temizlik Kimyasalı',
+          'hvac19': 'Her Tür Paslanmaz Yüzey İçin Genel Depozit Temizleyicisi',
+          'hvac20': 'Fuel Oil Katkı Maddesi',
+
+          //Kapali Devre Sistemleri
+
+          'ccs': 'Kapalı Devre Sistemleri',
+          'ccs1': 'Kireç ve Korozyon Önleyici Ürünler',
+
+          //Kullanim suyu hatlari
+
+          'dwl': 'Kullanım Suyu Hatları',
+          'dwl1': 'Kireç ve Korozyon Önleyici Ürünler',
+
+          //Sogutma Kulesi Sistemleri
+
+          'cts': 'Soğutma Kulesi Sistemleri',
+          'cts1': 'Kireç ve Korozyon Önleyici Ürünler',
+
+          //Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri
+
+          'RO': 'Ters Osmoz (R.O.)',
+          'RO1':'Demir,Kalsiyum Bileşikleri Oluşumuna Karşı Etkili Güçlü Antiskalant',
+          'RO2':'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
+
+
+
+
+
+
+
+
+
 
     },
     'en': {
@@ -276,6 +354,77 @@
         'HVACnav': 'HVAC and Industrial Cleaning Products',
         'reverseNav': 'Reverse Osmosis (R.O.)',
         'bacteriaNav': 'Bacteria Applications',
+
+        'bacteriaApp12': 'Services - Bacteria Applications With our specially formulated chemicals applied to oil drains, grease traps, kitchens, toilets, faucets, septic tanks and manholes;',
+        'bacter': 'Odors and clogging problems from kitchen floor drains are cut.',
+        'bacteriaApp2': 'The oil collection period is extended by converting the oils accumulated in the oil traps.',
+        'bacteriaApp3': 'H2S corrosion is prevented in the entire installation.',
+        'bacteriaApp4': 'Deposits in mobile toilets break down. Odor problems are cut off.',
+        'bacteriaApp5': 'Odors emitted from kitchen exhausts are cut off.',
+        'bacteriaApp6': 'The permeability of septic tanks is increased. Odor problems are cut off.',
+        'bacteriaApp7': 'Long-term cleaning is ensured by the permanent effect of bacteria at points that cannot be reached for manual cleaning.',
+        'bacteriaApp8': 'Blockages in shower drains are prevented.',
+        'bacteriaApp9': 'With the odor neutralizers in the formula of the products, irritating odors are cut off instantly. Then the microorganisms start to work and destroy the odor source.',
+        'bacteriaApp11': 'Its application is economical, it is the method that carries the least risk in terms of occupational safety in its field.',
+        
+        //buhar uretim sistemi kimyasallari
+
+        'BUSK': 'Steam Production System Chemicals',
+        'BUSK1': 'Steam Production Chemicals',
+        'BUSK2': 'Oxygen Receiving Products',
+        'BUSK3': 'Anti-Deposit Products',
+        'BUSK4': 'Condensate Conditioner Products',
+        'BUSK5': 'Steam and Condensate Lines Anti-Corrosion Products',
+
+        //Dezenfeksiyon urunleri
+
+        'DF': 'Disinfection Products',
+        'DF1':'Bacteria Preventive Products in Cooling Tower Closed Circuit and Use Water',
+
+        //hvac 
+
+        'hvac': 'HVAC and Industrial Cleaning Products',
+        'hvac1': 'Acid Free Synthetic Bag Filter Cleaner',
+        'hvac2': 'Acid Free Aluminum Coil Cleaner',
+        'hvac3': 'No-Rinse Aluminum Coil Cleaner',
+        'hvac4': 'Polyelectrolytes for Waste Water and Settlement Plants',
+        'hvac5': 'Calc Cleaner with Inhibitor',
+        'hvac6': 'Calc Cleaner with Inhibitor',
+        'hvac7': 'Lime Remover for Aluminum Surfaces',
+        'hvac8': 'Boiler Commissioning-Passivation Chemical',
+        'hvac9': 'Alkaline Cleaner on Metal Surfaces',
+        'hvac11': 'Iron and Copper Inhibitor',
+        'hvac12': 'Iron Deposits Cleaning Chemical',
+        'hvac13': 'Neutral Cleaner',
+        'hvac14': 'Cleaner That Does Not Harm Chromium Metal',
+        'hvac15': 'Chromed Stainless Metal Non Harmful Cleaner',
+        'hvac16': 'Antifoam',
+        'hvac17': 'Silica Deposits Cleaning Chemical',
+        'hvac18': 'Resin Cleaning Chemical for Softening Systems',
+        'hvac19': 'General Deposit Cleaner for All Types of Stainless Surfaces',
+        'hvac20': 'Fuel Oil Additive',
+
+        //Kapali Devre Sistemleri
+
+        'ccs': 'Closed Circuit Systems',
+        'ccs1': 'Lime and Corrosion Preventive Products',
+
+        //Kullanim suyu hatlari
+
+        'dwl': 'Domestic Water Lines',
+        'dwl1': 'Lime and Corrosion Preventive Products',
+
+        //Sogutma Kulesi Sistemleri
+
+        'cts': 'Cooling Tower Systems',
+        'cts1': 'Lime and Corrosion Preventive Products',
+
+        //Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri
+
+        'RO': 'Reverse Osmosis (R.O.)',
+        'RO1': 'Strong Antiscalant Effective Against Formation of Iron, Calcium Compounds',
+        'RO2':'Reverse Osmosis (R.O.) Antifouling and Cleaning Products',
+
 
 
 
@@ -422,8 +571,77 @@
         'reverseNav': 'Обратный осмос',
         'bacteriaNav': 'Применение бактерий',
 
+        'bacteriaApp12': 'Услуги - Применение бактерий. С нашими специально разработанными химическими веществами, применяемыми для маслосливов, маслоудержателей, кухонь, туалетов, кранов, септиков и люков;',
+        'bacter': 'Устранены запахи и проблемы с засорением, исходящие от сточных вод на кухне.',
+        'bacteriaApp2': 'Масло, скопившееся в маслодержателях, преобразуется, и период сбора масла увеличивается.',
+        'bacteriaApp3': 'Предотвращение коррозии H2S на всех установках.',
+        'bacteriaApp4': 'В передвижных туалетах разваливается мусор. Проблемы с запахом исчезают',
+        'bacteriaApp5': 'Исчезают запахи, исходящие от кухонной вытяжки.',
+        'bacteriaApp6': 'Повышена проницаемость септиков. Проблемы с запахом исчезают.',
+        'bacteriaApp7': 'Долговременная очистка обеспечивается постоянным воздействием бактерий в местах, недоступных для ручной очистки.',
+        'bacteriaApp8': 'Предотвращение засорения водостока.',
+        'bacteriaApp9': 'С нейтрализаторами запаха в списке продуктов, неприятные запахи устраняются немедленно. Затем начинают работать микроорганизмы, уничтожающие источник запаха.',
+        'bacteriaApp11': 'Экономичен в применении, это метод с наименьшим риском с точки зрения безопасности труда в своей области.',
 
+        //buhar uretim sistemi kimyasallari
 
+        'BUSK': 'Химические вещества для систем производства пара',
+        'BUSK1': 'Химические вещества для производства пара',
+        'BUSK2': 'Продукты получающие кислород',
+        'BUSK3': 'Антидепозитные продукты ( продукты для предотвращения депозита)',
+        'BUSK4': 'Продукты для кондиционирования конденсата (Конденсация взрывоопасных продуктов)',
+        'BUSK5': 'Антикоррозионные средства для трубопроводов пара и конденсата',
+
+        //dezenfeksiyon urunleri
+
+        'DF': 'Средства дезинфекции',
+        'DF1':'Антибактериальные средства в замкнутом контуре градирни и бытовой воде',
+
+        //hvac 
+
+        'hvac': 'HVAC и промышленные чистящие средства',
+        'hvac1': 'Бескислотный очиститель алюминиевого змеевика',
+        'hvac2': 'Средство для очистки алюминия от серпантина без ополаскивания',
+        'hvac3': 'Несмываемый очиститель алюминиевых теплообменников',
+        'hvac4': 'Полиэлектролиты для сточных вод и отстойников',
+        'hvac5': 'Очиститель извести с ингибитором',
+        'hvac6': 'Очиститель извести с ингибитором',
+        'hvac7': 'Очиститель извести на алюминиевых поверхностях',
+        'hvac8': 'Ввод котла в эксплуатацию - химическая пассивация',
+        'hvac9': 'Щелочной очиститель металлических поверхностей',
+        'hvac11': 'Ингибитор железа и меди',
+        'hvac12': 'Химическая очистка железных отложений',
+        'hvac13': 'Нейтральный очиститель',
+        'hvac14': 'Не повреждающий очиститель для хромированного металла',
+        'hvac15': 'Хромированный очиститель для нержавеющих металлов',
+        'hvac16': 'Пеногаситель',
+        'hvac17': 'Химическая очистка отложений кремнезема',
+        'hvac18': 'Химикат для очистки смол для систем умягчения',
+        'hvac19': 'Универсальный очиститель отложений для всех типов нержавеющих поверхностей',
+        'hvac20': 'Присадка к мазуту',
+
+        //Kapali Devre Sistemleri
+
+        'ccs': 'Замкнутые системы',
+        'ccs1': 'Известь и средства защиты от коррозии',
+
+        //Kullanim suyu hatlari
+
+        'dwl': 'Использование питьевых водопроводов',
+        'dwl1': 'Известь и средства защиты от коррозии',
+
+        //Sogutma Kulesi Sistemleri
+
+        'cts': 'Использование питьевых водопроводов',
+        'cts1': 'Известь и средства защиты от коррозии',
+
+        //Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri
+
+        'RO': 'Обратный осмос.',
+        'RO1': 'Сильный антискалант, эффективный против образования соединений железа и кальция',
+        'RO2':'Обратный осмос. Совместные профилактические и чистящие средства',
+
+        
 
 
 

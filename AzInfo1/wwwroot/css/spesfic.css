@@ -1,0 +1,17 @@
+.order-first .ab-details .xxx p .fa-edit {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    margin-right: 10px;
+    color: #25A8DF;
+}
+
+.sections .container .pages-title .pp1 {
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 7px;
+    margin-top: 16px;
+    line-height: 1;
+}
+    .sections .container .pages-title h1 {
+    line-height: 0;
+}
