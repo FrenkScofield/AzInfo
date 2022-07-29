@@ -74,6 +74,38 @@ namespace AzInfo1.Controllers
         {
             return View();
         }
+        public IActionResult suSartlandirmaHizmeti()
+        {
+            return View();
+        }
+        public IActionResult laboratuvarHizmetleri()
+        {
+            return View();
+        }
+        public IActionResult legionellaAnalizleri()
+        {
+            return View();
+        }
+        public IActionResult geriKazanim()
+        {
+            return View();
+        }
+        public IActionResult sistemlerinUzaktanKontrolEdilmesi()
+        {
+            return View();
+        }
+        public IActionResult dataloggerIleVerilenToplanmasi()
+        {
+            return View();
+        }
+        public IActionResult ozonlaBakteriGiderimSistemleri()
+        {
+            return View();
+        }
+        public IActionResult notralizasyonSistemleri()
+        {
+            return View();
+        }
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
