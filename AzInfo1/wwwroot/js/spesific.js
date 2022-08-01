@@ -473,6 +473,37 @@
         //Ozonla Bakteri Giderim Sistemleri
         'OBGS': 'Bacteria Removal Systems with Ozone',
 
+        //Labaratuar Hizmetleri
+
+        'LaboratoryServicesP': 'With our field analysis bag, we create a laboratory environment in every company we go to and make careful analyzes. You can find photos and videos about them below.',
+        'labService': 'Laboratory Services',
+        'labService1': 'With our field analysis bag, we create a laboratory environment in every company we go to and make careful analyzes. You can find photos and videos about them below.',
+
+        //Su Sartlandirma Hizmeti
+
+        'WaterConditioningService': 'Water ConditioningService',
+        'WaterConditioningService1': 'According to the problems of the companies, the solutions they need are produced and put into practice. Below you can find the photos of the water treatment stations that we have carefully installed, from these solutions and our devices to the dosage tanks.',
+
+        //Geri Kazanim
+
+        'Regain': 'Regain',
+
+        'Regain1': 'Even blowdown water from a cooling tower can have an unbelievable cost. We recycle wastewater by establishing special systems. You can find photos and videos about this below, and you can see our customers satisfaction and how a recovery is made.',
+
+        //Sistemin Uzaktan Kontrol Edilmesi
+
+        'RemoteControlSystems': 'Remote Control of Systems',
+        'RemoteControlSystems1': 'If you have a sensitive system or you want to be able to monitor your system continuously, our remote control devices will be the answer you are looking for. By installing a program that will allow you to see and intervene the current values of your system from your office or from your home, we ensure that our device exchanges data with this program. In this way, wherever you are with your computer, you can see the instantaneous values of your system, obtain data at desired intervals, set parameters, download historical information, make tables, draw graphs and archive them.',
+
+        //Datalogger Ile Verilerin Toplanmsai
+
+        'DataCollectionDatalogger': 'Data Collection with Datalogger',
+        'DataCollectionDatalogger1': 'With our datalogger devices, you can record the data that your devices such as conductivity and pH output 4-20 mA at desired intervals, easily transfer them to excel and plot their graphs.',
+
+        //Notralizasyon Sistemi
+
+        'NeutralizationSystem': 'Neutralization System',
+
 
 
 
@@ -558,7 +589,7 @@
        'footersection2':'AZINFO Aзербайджан',
       'footeradress2':'Ясамал Району Ш.Гурбанов Кючеси № 21 Блок Б Мертебе 5 Мензил 8 Баку/АЗЕРБАЙДЖАН',
       
-        'services': 'Услуги',
+        'bigservices': 'УСЛУГИ',
         'services1': 'Служба очистки воды',
         'services2': 'Лабораторные услуги',
         'services3': 'Анализ на Легионеллу',
@@ -700,6 +731,36 @@
 
         //Ozonla Bakteri Giderim Sistemleri2
         'OBGS': 'Системы удаления бактерий с озоном',
+
+        //Lbaratuar Hizmetleri
+        'labService': 'Лабораторные услуги',
+        'labService1': 'С помощью сумки для анализа воды мы создаем лабораторную среду в каждой компании, в которую мы работаем, и тщательно анализируем ее. Вы можете найти фото и видео о них ниже.',
+
+        //su sartlandirma hizmeeti
+
+        'WaterConditioningService': 'Служба очистки воды',
+        'WaterConditioningService1': 'Решения, которые нужны компаниям в соответствии с их проблемами, производятся и внедряются. Ниже вы можете найти фотографии станций водоподготовки, которые мы тщательно смонтировали от этих решений и наших устройств до резервуаров-дозаторов.',
+
+        //Geri Kazanim
+
+        'Regain': 'Переработка',
+        'Regain1': 'Даже продувочная вода для градирни может иметь огромные затраты. Мы перерабатываем сточные воды, устанавливая специальные системы. Вы можете найти фотографии и видео об этом ниже, и вы можете увидеть, насколько наши клиенты удовлетворены и как было сделано восстановление.',
+
+        //Sistemin Uzaktan Kontrol Edilmesi
+
+        'RemoteControlSystems': 'Удаленное управление системами',
+        'RemoteControlSystems1': 'Если у вас есть чувствительная система или вы хотите иметь возможность постоянно контролировать свою систему, наши устройства управления удаленным доступом станут тем ответом, который вы ищете. Настроив программу, которая позволит вам просматривать и изменять текущие значения вашей системы из вашего офиса или дома, мы позволяем нашему устройству обмениваться данными с этой программой. Таким образом, где бы вы ни находились со своим компьютером, вы можете видеть мгновенные значения вашей системы, гарантировать, что данные могут извлекаться с нужными вам интервалами, устанавливать параметры, загружать историческую информацию, составлять таблицу, рисовать графики и архивировать их. ',
+
+        //Datalogger Ile Verilerin Toplanmsai
+
+        'DataCollectionDatalogger': 'Сбор данных с помощью регистратора данных',
+        'DataCollectionDatalogger1': 'С помощью наших устройств регистрации данных вы можете записывать данные, которые ваши устройства выдают на выходе 4-20 мА, такие как проводимость и pH, легко переносить их в Excel и рисовать их графики.',
+
+        //Notralizasyon Sistemi
+
+        'NeutralizationSystem': 'Система нейтрализации ',
+
+
     
     }
     
