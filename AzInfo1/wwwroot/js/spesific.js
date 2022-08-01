@@ -206,7 +206,17 @@
 
           'RO': 'Ters Osmoz (R.O.)',
           'RO1':'Demir,Kalsiyum Bileşikleri Oluşumuna Karşı Etkili Güçlü Antiskalant',
-          'RO2':'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
+          'RO2': 'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
+
+          //Su Sartlandirma Hizmetleri
+
+          'desedrf': 'Su Şartlandırma Hizmeti',
+          'waterCsystemP':'Firmaların sorunlarına göre ihtiyacı olan çözümler üretilir ve uygulamaya alınır. Bu çözümler ve cihazlarımızdan dozaj tanklarına kadar özenle kurduğumuz su şartlandırma istasyonlarının fotoğraflarını aşağıda bulabilirsiniz.',
+
+          //Labaratuar Hizmetleri
+
+          'LaboratoryServicesP':'Saha analiz çantamız ile gittiğimiz her firmada laboratuvar ortamı oluşturup özenle analizler yapıyoruz. Bunlarla ilgili fotoğraf ve videoları aşağıda bulabilirsiniz.',
+
 
 
 
@@ -423,9 +433,17 @@
 
         'RO': 'Reverse Osmosis (R.O.)',
         'RO1': 'Strong Antiscalant Effective Against Formation of Iron, Calcium Compounds',
-        'RO2':'Reverse Osmosis (R.O.) Antifouling and Cleaning Products',
+        'RO2': 'Reverse Osmosis (R.O.) Antifouling and Cleaning Products',
 
+        //Su Sartlandirma Hizmetleri
 
+        
+        'desedrf': 'Water Conditioning Service',
+        'waterCsystemP':'According to the problems of the companies, the solutions they need are produced and put into practice. Below you can find the photos of the water treatment stations that we have carefully installed, from these solutions and our devices to the dosage tanks.',
+
+        //Labaratuar Hizmetleri
+
+        'LaboratoryServicesP':'With our field analysis bag, we create a laboratory environment in every company we go to and make careful analyzes. You can find photos and videos about them below.',
 
 
     
@@ -636,10 +654,20 @@
         'cts1': 'Известь и средства защиты от коррозии',
 
         //Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri
-
+        
         'RO': 'Обратный осмос.',
         'RO1': 'Сильный антискалант, эффективный против образования соединений железа и кальция',
-        'RO2':'Обратный осмос. Совместные профилактические и чистящие средства',
+        'RO2': 'Обратный осмос. Совместные профилактические и чистящие средства',
+
+        //Su Sartlandirma Hizmetleri
+
+        'waterCsystemP':'Решения, которые нужны компаниям в соответствии с их проблемами, производятся и внедряются. Ниже вы можете найти фотографии станций водоподготовки, которые мы тщательно смонтировали от этих решений и наших устройств до резервуаров-дозаторов.',
+
+        //Labaratuar Hizmetleri
+
+        'LaboratoryServicesP':'С помощью сумки для анализа воды мы создаем лабораторную среду в каждой компании, в которую мы работаем, и тщательно анализируем ее. Вы можете найти фото и видео о них ниже.'
+
+
 
         
 
