@@ -206,11 +206,16 @@
 
           'RO': 'Ters Osmoz (R.O.)',
           'RO1':'Demir,Kalsiyum Bileşikleri Oluşumuna Karşı Etkili Güçlü Antiskalant',
-          'RO2': 'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
+          'RO2':'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
+          'labService': 'Laboratuvar Hizmetleri',
 
-          'samlService': 'Hizmetler',
-          
-           //Labaratuar Hizmetleri
+          //Legionella Analizleri
+          'LegionellaAnalyzes': 'Legionella Analizleri',
+          'LegionellaDescription1': 'Legionella bakterisi doğadaki su kaynaklarından gelen bakterilerdir, binaların su sistemlerine yerleşir ve uygun ortam bulunca çoğalır. Özellikle üremesi ve çoğalması için su sıcaklığının 25-42 oC arasında ısıya gerek vardır. Yüksek sıcaklıklarda üremesi durur ve ölmeye başlar, teorik olarak 70oC nin üzerinde yaşaması mümkün değildir.Suyun pH’ı ise 5, 5-8, 5 arasında olmalıdır.Legionella ; Su içinde serbest halde, ameobae içinde(Acanthamoeba sp, Naegleria sp) veya biofilm içerisinde yaşarlar.Korozyon ve biofilm oluşumu sonucu ortaya çıkan nutrientler beslenmesini ve çoğalmasını sağlar.Biofilm, bakteri ile mücadelede dezenfektanın etkinliğini azaltır.Korozyon ise nutrientlerin ortaya çıkmasına neden olur ve biofilm oluşumunu arttırır.Legionella ile mücadelede müşterilerimizde yapılan ziyaretlerimizde bu bakterileri takip etmek amaçlı düzenli aralıklarla numune alınıp İngiltere’deki ileri teknolojiye sahip anlaşmalı laboratuvarımıza yollamaktayız.',
+          'LegionellaDescription2': 'Türkiye’de maalesef legionella bakterisinin sayımını yapabilen laboratuvar bulunmamaktadır. Ülkemizde legionella bakterisine gerektiği önem verilmesede bu bakterilerin yayılması aşırı derecede kolaydır. Su zerreciklerinin içerisine yerleşir ve hava yoluyla alınması sonucu vücuda girer. Büyük binalardaki (Otel, hastane, iş ve alışveriş merkezleri, bakım evleri..) soğutma kuleli klima sistemlerinden, duş başlıklarından, musluklardan, jakuzilerden, hamamlardan, bahçe sulama için kullanılan sprinklerden havaya yayılarak, hastanelerde solunum sağlayıcı ekipmanlardan (Nebulizatör, aspiratör, endoskopi..) bulaşır. Bu yüzden Legionella bakterisinin düzenli aralıklarla sayımının yapılması bu sayının kontrol altında tutulması kritik önem taşır.',
+
+          //Ozonla Bakteri Giderim Sistemleri
+          'OBGS':'Ozonla Bakteri Giderim Sistemleri',
 
           'labService': 'Laboratuvar Hizmetleri',
           'labService1': 'Saha analiz çantamız ile gittiğimiz her firmada laboratuvar ortamı oluşturup özenle analizler yapıyoruz. Bunlarla ilgili fotoğraf ve videoları aşağıda bulabilirsiniz.',
@@ -240,7 +245,10 @@
           //Notralizasyon Sistemi
 
           'NeutralizationSystem':'Nötralizasyon Sistemi',
-          
+
+
+
+
 
 
 
@@ -454,43 +462,23 @@
 
         'RO': 'Reverse Osmosis (R.O.)',
         'RO1': 'Strong Antiscalant Effective Against Formation of Iron, Calcium Compounds',
-        'RO2': 'Reverse Osmosis (R.O.) Antifouling and Cleaning Products',
+        'RO2':'Reverse Osmosis (R.O.) Antifouling and Cleaning Products',
+        'labService':'Laboratory Services',
 
-       
-        
-        //Labaratuar Hizmetleri
+        //Legionella Analizleri
+        'LegionellaAnalyzes': 'Legionella Analyzes',
+        'LegionellaDescription1': 'Legionella bacteria are bacteria that come from water sources in nature, settle in the water systems of buildings and multiply when a suitable environment is found. Especially for its reproduction and reproduction, the water temperature needs to be between 25-42 oC. It stops breeding at high temperatures and starts to die, theoretically it is not possible to live above 70oC. The pH of the water should be between 5.5 and 8.5. Legionella; They live free in water, in ameobae (Acanthamoeba sp, Naegleria sp) or in biofilms. Nutrients that emerge as a result of corrosion and biofilm formation provide nutrition and proliferation. Biofilm reduces the effectiveness of the disinfectant in fighting bacteria. Corrosion causes the emergence of nutrients and increases biofilm formation. During our visits to our customers in the fight against Legionella, we take samples at regular intervals to monitor these bacteria and send them to our contracted laboratory with advanced technology in England.',
+        'LegionellaDescription2': 'Unfortunately, there is no laboratory in Turkey that can count legionella bacteria. Although legionella bacteria are not given due importance in our country, the spread of these bacteria is extremely easy. It settles in the water particles and enters the body as a result of being taken through the air. From air conditioning systems with cooling towers, shower heads, taps, jacuzzis, baths, sprinklers used for garden irrigation in large buildings (Hotels, hospitals, business and shopping centers, nursing homes..), respiratory equipment (Nebulizer, aspirator, endoscopy) in hospitals. .) is found. Therefore, it is critical to count the Legionella bacteria at regular intervals and to keep this number under control.',
 
-        'labService': 'Laboratory Services',
-        'labService1': 'With our field analysis bag, we create a laboratory environment in every company we go to and make careful analyzes. You can find photos and videos about them below.',
-
-        //Su Sartlandirma Hizmeti
-
-        'WaterConditioningService': 'Water ConditioningService',
-        'WaterConditioningService1':'According to the problems of the companies, the solutions they need are produced and put into practice. Below you can find the photos of the water treatment stations that we have carefully installed, from these solutions and our devices to the dosage tanks.',
-
-        //Geri Kazanim
-
-        'Regain': 'Regain',
-       
-        'Regain1': 'Even blowdown water from a cooling tower can have an unbelievable cost. We recycle wastewater by establishing special systems. You can find photos and videos about this below, and you can see our customers satisfaction and how a recovery is made.',
-
-        //Sistemin Uzaktan Kontrol Edilmesi
-
-        'RemoteControlSystems':'Remote Control of Systems',
-        'RemoteControlSystems1':'If you have a sensitive system or you want to be able to monitor your system continuously, our remote control devices will be the answer you are looking for. By installing a program that will allow you to see and intervene the current values of your system from your office or from your home, we ensure that our device exchanges data with this program. In this way, wherever you are with your computer, you can see the instantaneous values of your system, obtain data at desired intervals, set parameters, download historical information, make tables, draw graphs and archive them.',
-
-        //Datalogger Ile Verilerin Toplanmsai
-
-        'DataCollectionDatalogger': 'Data Collection with Datalogger',
-        'DataCollectionDatalogger1':'With our datalogger devices, you can record the data that your devices such as conductivity and pH output 4-20 mA at desired intervals, easily transfer them to excel and plot their graphs.',
-
-        //Notralizasyon Sistemi
-
-        'NeutralizationSystem': 'Neutralization System',
+        //Ozonla Bakteri Giderim Sistemleri
+        'OBGS': 'Bacteria Removal Systems with Ozone',
 
 
 
-    
+
+
+
+
     
     
     },
@@ -570,7 +558,7 @@
        'footersection2':'AZINFO Aзербайджан',
       'footeradress2':'Ясамал Району Ш.Гурбанов Кючеси № 21 Блок Б Мертебе 5 Мензил 8 Баку/АЗЕРБАЙДЖАН',
       
-        'bigservices': 'УСЛУГИ',
+        'services': 'Услуги',
         'services1': 'Служба очистки воды',
         'services2': 'Лабораторные услуги',
         'services3': 'Анализ на Легионеллу',
@@ -701,41 +689,14 @@
         
         'RO': 'Обратный осмос.',
         'RO1': 'Сильный антискалант, эффективный против образования соединений железа и кальция',
-        'RO2': 'Обратный осмос. Совместные профилактические и чистящие средства',
-
-        'samlService':'Услуги',
-
-        //Lbaratuar Hizmetleri
-        'labService': 'Лабораторные услуги',
-        'labService1': 'С помощью сумки для анализа воды мы создаем лабораторную среду в каждой компании, в которую мы работаем, и тщательно анализируем ее. Вы можете найти фото и видео о них ниже.',
-
-        //Su Sartlandirma Hizmeti
-
-        'WaterConditioningService': 'Служба очистки воды',
-        'WaterConditioningService1':'Решения, которые нужны компаниям в соответствии с их проблемами, производятся и внедряются. Ниже вы можете найти фотографии станций водоподготовки, которые мы тщательно смонтировали от этих решений и наших устройств до резервуаров-дозаторов.',
-
-        //Geri Kazanim
-
-        'Regain': 'Переработка',
-        'Regain1':'Даже продувочная вода для градирни может иметь огромные затраты. Мы перерабатываем сточные воды, устанавливая специальные системы. Вы можете найти фотографии и видео об этом ниже, и вы можете увидеть, насколько наши клиенты удовлетворены и как было сделано восстановление.',
-
-        //Sistemin Uzaktan Kontrol Edilmesi
-
-        'RemoteControlSystems': 'Удаленное управление системами',
-        'RemoteControlSystems1':'Если у вас есть чувствительная система или вы хотите иметь возможность постоянно контролировать свою систему, наши устройства управления удаленным доступом станут тем ответом, который вы ищете. Настроив программу, которая позволит вам просматривать и изменять текущие значения вашей системы из вашего офиса или дома, мы позволяем нашему устройству обмениваться данными с этой программой. Таким образом, где бы вы ни находились со своим компьютером, вы можете видеть мгновенные значения вашей системы, гарантировать, что данные могут извлекаться с нужными вам интервалами, устанавливать параметры, загружать историческую информацию, составлять таблицу, рисовать графики и архивировать их. ',
-
-        //Datalogger Ile Verilerin Toplanmsai
-
-        'DataCollectionDatalogger':'Сбор данных с помощью регистратора данных',
-        'DataCollectionDatalogger1':'С помощью наших устройств регистрации данных вы можете записывать данные, которые ваши устройства выдают на выходе 4-20 мА, такие как проводимость и pH, легко переносить их в Excel и рисовать их графики.',
-
-        //Notralizasyon Sistemi
-
-        'NeutralizationSystem': 'Система нейтрализации ',
+        'RO2':'Обратный осмос. Совместные профилактические и чистящие средства',
+        'labService':'Лабораторные услуги',
+        
 
 
 
-
+        //Ozonla Bakteri Giderim Sistemleri
+        'OBGS': 'Системы удаления бактерий с озоном',
     
     }
     
