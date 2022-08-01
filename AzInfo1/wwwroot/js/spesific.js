@@ -473,6 +473,37 @@
         //Ozonla Bakteri Giderim Sistemleri
         'OBGS': 'Bacteria Removal Systems with Ozone',
 
+        //Labaratuar Hizmetleri
+
+        'LaboratoryServicesP': 'With our field analysis bag, we create a laboratory environment in every company we go to and make careful analyzes. You can find photos and videos about them below.',
+        'labService': 'Laboratory Services',
+        'labService1': 'With our field analysis bag, we create a laboratory environment in every company we go to and make careful analyzes. You can find photos and videos about them below.',
+
+        //Su Sartlandirma Hizmeti
+
+        'WaterConditioningService': 'Water ConditioningService',
+        'WaterConditioningService1': 'According to the problems of the companies, the solutions they need are produced and put into practice. Below you can find the photos of the water treatment stations that we have carefully installed, from these solutions and our devices to the dosage tanks.',
+
+        //Geri Kazanim
+
+        'Regain': 'Regain',
+
+        'Regain1': 'Even blowdown water from a cooling tower can have an unbelievable cost. We recycle wastewater by establishing special systems. You can find photos and videos about this below, and you can see our customers satisfaction and how a recovery is made.',
+
+        //Sistemin Uzaktan Kontrol Edilmesi
+
+        'RemoteControlSystems': 'Remote Control of Systems',
+        'RemoteControlSystems1': 'If you have a sensitive system or you want to be able to monitor your system continuously, our remote control devices will be the answer you are looking for. By installing a program that will allow you to see and intervene the current values of your system from your office or from your home, we ensure that our device exchanges data with this program. In this way, wherever you are with your computer, you can see the instantaneous values of your system, obtain data at desired intervals, set parameters, download historical information, make tables, draw graphs and archive them.',
+
+        //Datalogger Ile Verilerin Toplanmsai
+
+        'DataCollectionDatalogger': 'Data Collection with Datalogger',
+        'DataCollectionDatalogger1': 'With our datalogger devices, you can record the data that your devices such as conductivity and pH output 4-20 mA at desired intervals, easily transfer them to excel and plot their graphs.',
+
+        //Notralizasyon Sistemi
+
+        'NeutralizationSystem': 'Neutralization System',
+
 
 
 
@@ -558,7 +589,7 @@
        'footersection2':'AZINFO Aзербайджан',
       'footeradress2':'Ясамал Району Ш.Гурбанов Кючеси № 21 Блок Б Мертебе 5 Мензил 8 Баку/АЗЕРБАЙДЖАН',
       
-        'services': 'Услуги',
+        'bigservices': 'УСЛУГИ',
         'services1': 'Служба очистки воды',
         'services2': 'Лабораторные услуги',
         'services3': 'Анализ на Легионеллу',
@@ -692,11 +723,44 @@
         'RO2':'Обратный осмос. Совместные профилактические и чистящие средства',
         'labService':'Лабораторные услуги',
         
+        //Legionella Analizleri
+        'LegionellaAnalyzes': 'Анализы легионеллы',
+        'LegionellaDescription1': 'Бактерии Legionella – это бактерии, которые поступают из водных источников в природе, оседают в системах водоснабжения зданий и размножаются при нахождении подходящей среды. Специально для его размножения и размножения температура воды должна быть в пределах 25-42 oC. Он перестает размножаться при высоких температурах и начинает погибать, выше 70°С жить теоретически невозможно. рН воды должен быть между 5,5 и 8,5. легионелла; Они свободно живут в воде, в амеобах (Acanthamoeba sp, Naegleria sp) или в биопленках. Питательные вещества, возникающие в результате коррозии и образования биопленок, обеспечивают питание и размножение. Биопленка снижает эффективность дезинфицирующего средства в борьбе с бактериями. Коррозия вызывает появление питательных веществ и увеличивает образование биопленки. Во время наших визитов к нашим клиентам в рамках борьбы с легионеллой мы регулярно берем образцы для мониторинга этих бактерий и отправляем их в нашу контрактную лабораторию с передовыми технологиями в Англии.',
+        'LegionellaDescription2': 'К сожалению, в Турции нет лаборатории, которая может подсчитывать бактерии легионеллы. Хотя бактериям легионеллы не придается должного значения в нашей стране, распространение этих бактерий происходит чрезвычайно легко. Он оседает в частицах воды и попадает в организм в результате переноса с воздухом. От систем кондиционирования воздуха с градирнями, насадками для душа, кранами, джакузи, ваннами, разбрызгивателями, используемыми для орошения садов в крупных зданиях (гостиницы, больницы, бизнес-центры и торговые центры, дома престарелых...), респираторным оборудованием (небулайзер, аспиратор, эндоскопия) в больницах..) встречается. Поэтому очень важно регулярно подсчитывать количество бактерий Legionella и держать это количество под контролем.',
 
 
-
-        //Ozonla Bakteri Giderim Sistemleri
+        //Ozonla Bakteri Giderim Sistemleri1
         'OBGS': 'Системы удаления бактерий с озоном',
+
+        //Lbaratuar Hizmetleri
+        'labService': 'Лабораторные услуги',
+        'labService1': 'С помощью сумки для анализа воды мы создаем лабораторную среду в каждой компании, в которую мы работаем, и тщательно анализируем ее. Вы можете найти фото и видео о них ниже.',
+
+        //su sartlandirma hizmeeti
+
+        'WaterConditioningService': 'Служба очистки воды',
+        'WaterConditioningService1': 'Решения, которые нужны компаниям в соответствии с их проблемами, производятся и внедряются. Ниже вы можете найти фотографии станций водоподготовки, которые мы тщательно смонтировали от этих решений и наших устройств до резервуаров-дозаторов.',
+
+        //Geri Kazanim
+
+        'Regain': 'Переработка',
+        'Regain1': 'Даже продувочная вода для градирни может иметь огромные затраты. Мы перерабатываем сточные воды, устанавливая специальные системы. Вы можете найти фотографии и видео об этом ниже, и вы можете увидеть, насколько наши клиенты удовлетворены и как было сделано восстановление.',
+
+        //Sistemin Uzaktan Kontrol Edilmesi
+
+        'RemoteControlSystems': 'Удаленное управление системами',
+        'RemoteControlSystems1': 'Если у вас есть чувствительная система или вы хотите иметь возможность постоянно контролировать свою систему, наши устройства управления удаленным доступом станут тем ответом, который вы ищете. Настроив программу, которая позволит вам просматривать и изменять текущие значения вашей системы из вашего офиса или дома, мы позволяем нашему устройству обмениваться данными с этой программой. Таким образом, где бы вы ни находились со своим компьютером, вы можете видеть мгновенные значения вашей системы, гарантировать, что данные могут извлекаться с нужными вам интервалами, устанавливать параметры, загружать историческую информацию, составлять таблицу, рисовать графики и архивировать их. ',
+
+        //Datalogger Ile Verilerin Toplanmsai
+
+        'DataCollectionDatalogger': 'Сбор данных с помощью регистратора данных',
+        'DataCollectionDatalogger1': 'С помощью наших устройств регистрации данных вы можете записывать данные, которые ваши устройства выдают на выходе 4-20 мА, такие как проводимость и pH, легко переносить их в Excel и рисовать их графики.',
+
+        //Notralizasyon Sistemi
+
+        'NeutralizationSystem': 'Система нейтрализации ',
+
+
     
     }
     
