@@ -75,7 +75,7 @@
         'footersection2':'AZINFO AZERBAYCAN',
         'footeradress2':'Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN',
         
-        'services':'HIZMETLER',
+        'bigservices':'HIZMETLER',
         'services1':'Su Şartlandırma Hizmeti',
         'services2':'Laboratuvar Hizmetleri',
         'services3':'Legionella Analizleri',
@@ -207,8 +207,15 @@
           'RO': 'Ters Osmoz (R.O.)',
           'RO1':'Demir,Kalsiyum Bileşikleri Oluşumuna Karşı Etkili Güçlü Antiskalant',
           'RO2':'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
-          'labService':'Laboratuvar Hizmetleri'
+          'labService': 'Laboratuvar Hizmetleri',
 
+          //Legionella Analizleri
+          'LegionellaAnalyzes': 'Legionella Analizleri',
+          'LegionellaDescription1': 'Legionella bakterisi doğadaki su kaynaklarından gelen bakterilerdir, binaların su sistemlerine yerleşir ve uygun ortam bulunca çoğalır. Özellikle üremesi ve çoğalması için su sıcaklığının 25-42 oC arasında ısıya gerek vardır. Yüksek sıcaklıklarda üremesi durur ve ölmeye başlar, teorik olarak 70oC nin üzerinde yaşaması mümkün değildir.Suyun pH’ı ise 5, 5-8, 5 arasında olmalıdır.Legionella ; Su içinde serbest halde, ameobae içinde(Acanthamoeba sp, Naegleria sp) veya biofilm içerisinde yaşarlar.Korozyon ve biofilm oluşumu sonucu ortaya çıkan nutrientler beslenmesini ve çoğalmasını sağlar.Biofilm, bakteri ile mücadelede dezenfektanın etkinliğini azaltır.Korozyon ise nutrientlerin ortaya çıkmasına neden olur ve biofilm oluşumunu arttırır.Legionella ile mücadelede müşterilerimizde yapılan ziyaretlerimizde bu bakterileri takip etmek amaçlı düzenli aralıklarla numune alınıp İngiltere’deki ileri teknolojiye sahip anlaşmalı laboratuvarımıza yollamaktayız.',
+          'LegionellaDescription2': 'Türkiye’de maalesef legionella bakterisinin sayımını yapabilen laboratuvar bulunmamaktadır. Ülkemizde legionella bakterisine gerektiği önem verilmesede bu bakterilerin yayılması aşırı derecede kolaydır. Su zerreciklerinin içerisine yerleşir ve hava yoluyla alınması sonucu vücuda girer. Büyük binalardaki (Otel, hastane, iş ve alışveriş merkezleri, bakım evleri..) soğutma kuleli klima sistemlerinden, duş başlıklarından, musluklardan, jakuzilerden, hamamlardan, bahçe sulama için kullanılan sprinklerden havaya yayılarak, hastanelerde solunum sağlayıcı ekipmanlardan (Nebulizatör, aspiratör, endoskopi..) bulaşır. Bu yüzden Legionella bakterisinin düzenli aralıklarla sayımının yapılması bu sayının kontrol altında tutulması kritik önem taşır.',
+
+          //Ozonla Bakteri Giderim Sistemleri
+          'OBGS':'Ozonla Bakteri Giderim Sistemleri',
 
 
 
@@ -293,7 +300,7 @@
         'footersection2':'AZINFO AZERBAIJAN',
         'footeradress2':'Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN',
 
-        'services':'SERVICES',
+        'bigservices':'SERVICES',
         'services1':'Water Conditioning Service',
         'services2':'Laboratory Services',
         'services3':'Legionella Analyzes',
@@ -425,11 +432,15 @@
         'RO': 'Reverse Osmosis (R.O.)',
         'RO1': 'Strong Antiscalant Effective Against Formation of Iron, Calcium Compounds',
         'RO2':'Reverse Osmosis (R.O.) Antifouling and Cleaning Products',
-        'labService':'Laboratory Services'
+        'labService':'Laboratory Services',
 
+        //Legionella Analizleri
+        'LegionellaAnalyzes': 'Legionella Analyzes',
+        'LegionellaDescription1': 'Legionella bacteria are bacteria that come from water sources in nature, settle in the water systems of buildings and multiply when a suitable environment is found. Especially for its reproduction and reproduction, the water temperature needs to be between 25-42 oC. It stops breeding at high temperatures and starts to die, theoretically it is not possible to live above 70oC. The pH of the water should be between 5.5 and 8.5. Legionella; They live free in water, in ameobae (Acanthamoeba sp, Naegleria sp) or in biofilms. Nutrients that emerge as a result of corrosion and biofilm formation provide nutrition and proliferation. Biofilm reduces the effectiveness of the disinfectant in fighting bacteria. Corrosion causes the emergence of nutrients and increases biofilm formation. During our visits to our customers in the fight against Legionella, we take samples at regular intervals to monitor these bacteria and send them to our contracted laboratory with advanced technology in England.',
+        'LegionellaDescription2': 'Unfortunately, there is no laboratory in Turkey that can count legionella bacteria. Although legionella bacteria are not given due importance in our country, the spread of these bacteria is extremely easy. It settles in the water particles and enters the body as a result of being taken through the air. From air conditioning systems with cooling towers, shower heads, taps, jacuzzis, baths, sprinklers used for garden irrigation in large buildings (Hotels, hospitals, business and shopping centers, nursing homes..), respiratory equipment (Nebulizer, aspirator, endoscopy) in hospitals. .) is found. Therefore, it is critical to count the Legionella bacteria at regular intervals and to keep this number under control.',
 
-
-    
+        //Ozonla Bakteri Giderim Sistemleri
+        'OBGS': 'Bacteria Removal Systems with Ozone',
     
     
     },
@@ -509,7 +520,7 @@
        'footersection2':'AZINFO Aзербайджан',
       'footeradress2':'Ясамал Району Ш.Гурбанов Кючеси № 21 Блок Б Мертебе 5 Мензил 8 Баку/АЗЕРБАЙДЖАН',
       
-        'services': 'Услуги',
+        'bigservices': 'Услуги',
         'services1': 'Служба очистки воды',
         'services2': 'Лабораторные услуги',
         'services3': 'Анализ на Легионеллу',
@@ -641,11 +652,15 @@
         'RO': 'Обратный осмос.',
         'RO1': 'Сильный антискалант, эффективный против образования соединений железа и кальция',
         'RO2':'Обратный осмос. Совместные профилактические и чистящие средства',
-        'labService':'Лабораторные услуги'
+        'labService':'Лабораторные услуги',
         
+        //Legionella Analizleri
+        'LegionellaAnalyzes': 'Анализы легионеллы',
+        'LegionellaDescription1': 'Бактерии Legionella – это бактерии, которые поступают из водных источников в природе, оседают в системах водоснабжения зданий и размножаются при нахождении подходящей среды. Специально для его размножения и размножения температура воды должна быть в пределах 25-42 oC. Он перестает размножаться при высоких температурах и начинает погибать, выше 70°С жить теоретически невозможно. рН воды должен быть между 5,5 и 8,5. легионелла; Они свободно живут в воде, в амеобах (Acanthamoeba sp, Naegleria sp) или в биопленках. Питательные вещества, возникающие в результате коррозии и образования биопленок, обеспечивают питание и размножение. Биопленка снижает эффективность дезинфицирующего средства в борьбе с бактериями. Коррозия вызывает появление питательных веществ и увеличивает образование биопленки. Во время наших визитов к нашим клиентам в рамках борьбы с легионеллой мы регулярно берем образцы для мониторинга этих бактерий и отправляем их в нашу контрактную лабораторию с передовыми технологиями в Англии.',
+        'LegionellaDescription2':'К сожалению, в Турции нет лаборатории, которая может подсчитывать бактерии легионеллы. Хотя бактериям легионеллы не придается должного значения в нашей стране, распространение этих бактерий происходит чрезвычайно легко. Он оседает в частицах воды и попадает в организм в результате переноса с воздухом. От систем кондиционирования воздуха с градирнями, насадками для душа, кранами, джакузи, ваннами, разбрызгивателями, используемыми для орошения садов в крупных зданиях (гостиницы, больницы, бизнес-центры и торговые центры, дома престарелых...), респираторным оборудованием (небулайзер, аспиратор, эндоскопия) в больницах..) встречается. Поэтому очень важно регулярно подсчитывать количество бактерий Legionella и держать это количество под контролем.',
 
-
-
+        //Ozonla Bakteri Giderim Sistemleri1
+        'OBGS': 'Системы удаления бактерий с озоном',
     
     }
     
