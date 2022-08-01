@@ -12,16 +12,17 @@
 
         <div class="pages-title">
 
-            <h1>Ürünler <br> <span>Laboratuvar Hizmetleri</span></h1>
+            <h1 class="lang" key="ProductsMain">Ürünler  </h1>
 
-            <p><a asp-controller="Home" asp-action="Index">Anasayfa</a> &nbsp; > &nbsp; <a href="hizmetler.html">Hizmetler</a> &nbsp; > &nbsp; <a href="#">Laboratuvar Hizmetleri</a></p>
+            <p class="lang pp1"  key="labService">Laboratuvar Hizmetleri</p>
+
+            <p><a asp-controller="Home" asp-action="Index" class="lang" key="mainPage">Anasayfa</a> &nbsp; > &nbsp; <a class="lang" key="samlService" href="hizmetler.html">Hizmetler</a> &nbsp; > &nbsp; <a href="#" class="lang"  key="labService">Laboratuvar Hizmetleri</a></p>
 
         </div>
 
     </div>
 
 </div>
-
 
 
 <!-- CONTENT START -->
@@ -40,13 +41,13 @@
 
                     <div class="list-group">
 
-                        <a href="su-sartlandirma-hizmeti.html" class="list-group-item d-flex justify-content-between align-items-center">
+                        <a asp-controller="Home" asp-action="suSartlandirmaHizmeti" class="list-group-item d-flex justify-content-between align-items-center lang" key="WaterConditioningService">
 
                             Su Şartlandırma Hizmeti
 
                         </a>
 
-                        <a href="laboratuvar-hizmetleri.html" class="list-group-item d-flex justify-content-between align-items-center">
+                        <a asp-controller="Home" asp-action="laboratuvarHizmetleri" class="list-group-item d-flex justify-content-between align-items-center lang"  key="labService">
 
                             Laboratuvar Hizmetleri
 
@@ -103,9 +104,9 @@
 
                 <div class="solution-content  ab-details">
 
-                    <h2>Laboratuvar Hizmetleri</h2>
+                    <h2  class="lang"  key="labService">Laboratuvar Hizmetleri</h2>
 
-                    <p>Saha analiz çantamız ile gittiğimiz her firmada laboratuvar ortamı oluşturup özenle analizler yapıyoruz. Bunlarla ilgili fotoğraf ve videoları aşağıda bulabilirsiniz.</p>
+                    <p class="lang" key="labService1">Saha analiz çantamız ile gittiğimiz her firmada laboratuvar ortamı oluşturup özenle analizler yapıyoruz. Bunlarla ilgili fotoğraf ve videoları aşağıda bulabilirsiniz.</p>
 
                 </div>
 

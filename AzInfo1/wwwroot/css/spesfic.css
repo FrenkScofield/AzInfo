@@ -15,3 +15,8 @@
     .sections .container .pages-title h1 {
     line-height: 0;
 }
+.sections .container .pages-title h1 {
+    margin-bottom: 23px;
+    color:white;
+  
+}
