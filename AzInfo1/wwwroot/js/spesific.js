@@ -207,6 +207,7 @@
           'RO': 'Ters Osmoz (R.O.)',
           'RO1':'Demir,Kalsiyum Bileşikleri Oluşumuna Karşı Etkili Güçlü Antiskalant',
           'RO2':'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
+          'labService':'Laboratuvar Hizmetleri'
 
 
 
@@ -216,8 +217,8 @@
 
 
 
+      },
 
-    },
     'en': {
       'ANASAYFA': 'MAIN',
       'KURUMSAL': 'CORPORATE',
@@ -424,7 +425,7 @@
         'RO': 'Reverse Osmosis (R.O.)',
         'RO1': 'Strong Antiscalant Effective Against Formation of Iron, Calcium Compounds',
         'RO2':'Reverse Osmosis (R.O.) Antifouling and Cleaning Products',
-
+        'labService':'Laboratory Services'
 
 
 
@@ -640,7 +641,7 @@
         'RO': 'Обратный осмос.',
         'RO1': 'Сильный антискалант, эффективный против образования соединений железа и кальция',
         'RO2':'Обратный осмос. Совместные профилактические и чистящие средства',
-
+        'labService':'Лабораторные услуги'
         
 
 
