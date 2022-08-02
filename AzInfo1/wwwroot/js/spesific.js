@@ -211,42 +211,37 @@ var arrLang = {
         'RO2': 'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
         'labService': 'Laboratuvar Hizmetleri',
 
-        //Legionella Analizleri
-        'LegionellaAnalyzes': 'Legionella Analizleri',
-        'LegionellaDescription1': 'Legionella bakterisi doğadaki su kaynaklarından gelen bakterilerdir, binaların su sistemlerine yerleşir ve uygun ortam bulunca çoğalır. Özellikle üremesi ve çoğalması için su sıcaklığının 25-42 oC arasında ısıya gerek vardır. Yüksek sıcaklıklarda üremesi durur ve ölmeye başlar, teorik olarak 70oC nin üzerinde yaşaması mümkün değildir.Suyun pH’ı ise 5, 5-8, 5 arasında olmalıdır.Legionella ; Su içinde serbest halde, ameobae içinde(Acanthamoeba sp, Naegleria sp) veya biofilm içerisinde yaşarlar.Korozyon ve biofilm oluşumu sonucu ortaya çıkan nutrientler beslenmesini ve çoğalmasını sağlar.Biofilm, bakteri ile mücadelede dezenfektanın etkinliğini azaltır.Korozyon ise nutrientlerin ortaya çıkmasına neden olur ve biofilm oluşumunu arttırır.Legionella ile mücadelede müşterilerimizde yapılan ziyaretlerimizde bu bakterileri takip etmek amaçlı düzenli aralıklarla numune alınıp İngiltere’deki ileri teknolojiye sahip anlaşmalı laboratuvarımıza yollamaktayız.',
-        'LegionellaDescription2': 'Türkiye’de maalesef legionella bakterisinin sayımını yapabilen laboratuvar bulunmamaktadır. Ülkemizde legionella bakterisine gerektiği önem verilmesede bu bakterilerin yayılması aşırı derecede kolaydır. Su zerreciklerinin içerisine yerleşir ve hava yoluyla alınması sonucu vücuda girer. Büyük binalardaki (Otel, hastane, iş ve alışveriş merkezleri, bakım evleri..) soğutma kuleli klima sistemlerinden, duş başlıklarından, musluklardan, jakuzilerden, hamamlardan, bahçe sulama için kullanılan sprinklerden havaya yayılarak, hastanelerde solunum sağlayıcı ekipmanlardan (Nebulizatör, aspiratör, endoskopi..) bulaşır. Bu yüzden Legionella bakterisinin düzenli aralıklarla sayımının yapılması bu sayının kontrol altında tutulması kritik önem taşır.',
+
+          //Legionella Analizleri
+          'LegionellaAnalyzes': 'Legionella Analizleri',
+          'LegionellaDescription1': 'Legionella bakterisi doğadaki su kaynaklarından gelen bakterilerdir, binaların su sistemlerine yerleşir ve uygun ortam bulunca çoğalır. Özellikle üremesi ve çoğalması için su sıcaklığının 25-42 oC arasında ısıya gerek vardır. Yüksek sıcaklıklarda üremesi durur ve ölmeye başlar, teorik olarak 70oC nin üzerinde yaşaması mümkün değildir.Suyun pH’ı ise 5, 5-8, 5 arasında olmalıdır.Legionella ; Su içinde serbest halde, ameobae içinde(Acanthamoeba sp, Naegleria sp) veya biofilm içerisinde yaşarlar.Korozyon ve biofilm oluşumu sonucu ortaya çıkan nutrientler beslenmesini ve çoğalmasını sağlar.Biofilm, bakteri ile mücadelede dezenfektanın etkinliğini azaltır.Korozyon ise nutrientlerin ortaya çıkmasına neden olur ve biofilm oluşumunu arttırır.Legionella ile mücadelede müşterilerimizde yapılan ziyaretlerimizde bu bakterileri takip etmek amaçlı düzenli aralıklarla numune alınıp İngiltere’deki ileri teknolojiye sahip anlaşmalı laboratuvarımıza yollamaktayız.',
+          'LegionellaDescription2': 'Türkiye’de maalesef legionella bakterisinin sayımını yapabilen laboratuvar bulunmamaktadır. Ülkemizde legionella bakterisine gerektiği önem verilmesede bu bakterilerin yayılması aşırı derecede kolaydır. Su zerreciklerinin içerisine yerleşir ve hava yoluyla alınması sonucu vücuda girer. Büyük binalardaki (Otel, hastane, iş ve alışveriş merkezleri, bakım evleri..) soğutma kuleli klima sistemlerinden, duş başlıklarından, musluklardan, jakuzilerden, hamamlardan, bahçe sulama için kullanılan sprinklerden havaya yayılarak, hastanelerde solunum sağlayıcı ekipmanlardan (Nebulizatör, aspiratör, endoskopi..) bulaşır. Bu yüzden Legionella bakterisinin düzenli aralıklarla sayımının yapılması bu sayının kontrol altında tutulması kritik önem taşır.',
 
         //Ozonla Bakteri Giderim Sistemleri
         'OBGS': 'Ozonla Bakteri Giderim Sistemleri',
 
-        'labService': 'Laboratuvar Hizmetleri',
-        'labService1': 'Saha analiz çantamız ile gittiğimiz her firmada laboratuvar ortamı oluşturup özenle analizler yapıyoruz. Bunlarla ilgili fotoğraf ve videoları aşağıda bulabilirsiniz.',
+          //labaratuar hizmetleri
+          'labService': 'Laboratuvar Hizmetleri',
+          'labService1': 'Saha analiz çantamız ile gittiğimiz her firmada laboratuvar ortamı oluşturup özenle analizler yapıyoruz. Bunlarla ilgili fotoğraf ve videoları aşağıda bulabilirsiniz.',
 
+          //Su Sartlandirma Hizmeti
+          'WaterConditioningService': 'Su Şartlandırma Hizmeti',
+          'WaterConditioningService1':'Firmaların sorunlarına göre ihtiyacı olan çözümler üretilir ve uygulamaya alınır. Bu çözümler ve cihazlarımızdan dozaj tanklarına kadar özenle kurduğumuz su şartlandırma istasyonlarının fotoğraflarını aşağıda bulabilirsiniz.',
+          
+          //Geri Kazanim
+          'Regain':'Geri Kazanım',
+          'Regain1':'Soğutma kulesinin blöf suyunun bile inanılmaz bir maliyeti olabilir. Özel sistemler kurularak atık suları geri kazandırıyoruz. Bununla ilgili fotoğraf ve videoları aşağıda bulabilir, müşterimizin memnuniyetini ve nasıl bir geri kazanım yapıldığını görebilirsiniz.',
 
-        //Su Sartlandirma Hizmeti
+          //Sistemin Uzaktan Kontrol Edilmesi
+          'RemoteControlSystems':'Sistemlerin Uzaktan Kontrol Edilmesi',
+          'RemoteControlSystems1':'Eğer ki hassas bir sisteminiz varsa veya siz sisteminizi sürekli takip edebilmek istiyorsanız uzaktan erişim sağlanabilen kontrol cihazlarımız aradığınız cevap olacaktır. Sisteminizin güncel değerlerini ister ofisinizden isterseniz evinizden görmenizi ve müdahale etmenizi sağlayacak bir program kurarak cihazımızın bu program ile veri alış verişini sağlıyoruz. Bu sayede bilgisayarınız ile nerede olursanız olun sisteminizin anlık değerlerini görebilir, istediğiniz aralıklarla verilerin alınmasını sağlayabilir, parametreleri ayarlayabilir, geçmiş bilgileri indirip tablo yaptırabilir, grafik çizdirebilir ve bunları arşivleyebilirsiniz.',
 
-        'WaterConditioningService': 'Su Şartlandırma Hizmeti',
-        'WaterConditioningService1': 'Firmaların sorunlarına göre ihtiyacı olan çözümler üretilir ve uygulamaya alınır. Bu çözümler ve cihazlarımızdan dozaj tanklarına kadar özenle kurduğumuz su şartlandırma istasyonlarının fotoğraflarını aşağıda bulabilirsiniz.',
+          //Datalogger Ile Verilerin Toplanmsai
+          'DataCollectionDatalogger':'Datalogger İle Verilerin Toplanması',
+          'DataCollectionDatalogger1':'Datalogger cihazlarımızla iletkenlik, pH gibi cihazlarınızın 4-20 mA çıkış verdiği dataları istediğiniz aralıklarla kaydedebilir, kolayca excel’e aktarabilir ve grafiklerini çizdirebilirsiniz.',
 
-        //Geri Kazanim
-
-        'Regain': 'Geri Kazanım',
-        'Regain1': 'Soğutma kulesinin blöf suyunun bile inanılmaz bir maliyeti olabilir. Özel sistemler kurularak atık suları geri kazandırıyoruz. Bununla ilgili fotoğraf ve videoları aşağıda bulabilir, müşterimizin memnuniyetini ve nasıl bir geri kazanım yapıldığını görebilirsiniz.',
-
-        //Sistemin Uzaktan Kontrol Edilmesi
-
-        'RemoteControlSystems': 'Sistemlerin Uzaktan Kontrol Edilmesi',
-        'RemoteControlSystems1': 'Eğer ki hassas bir sisteminiz varsa veya siz sisteminizi sürekli takip edebilmek istiyorsanız uzaktan erişim sağlanabilen kontrol cihazlarımız aradığınız cevap olacaktır. Sisteminizin güncel değerlerini ister ofisinizden isterseniz evinizden görmenizi ve müdahale etmenizi sağlayacak bir program kurarak cihazımızın bu program ile veri alış verişini sağlıyoruz. Bu sayede bilgisayarınız ile nerede olursanız olun sisteminizin anlık değerlerini görebilir, istediğiniz aralıklarla verilerin alınmasını sağlayabilir, parametreleri ayarlayabilir, geçmiş bilgileri indirip tablo yaptırabilir, grafik çizdirebilir ve bunları arşivleyebilirsiniz.',
-
-        //Datalogger Ile Verilerin Toplanmsai
-
-        'DataCollectionDatalogger': 'Datalogger İle Verilerin Toplanması',
-        'DataCollectionDatalogger1': 'Datalogger cihazlarımızla iletkenlik, pH gibi cihazlarınızın 4-20 mA çıkış verdiği dataları istediğiniz aralıklarla kaydedebilir, kolayca excel’e aktarabilir ve grafiklerini çizdirebilirsiniz.',
-
-
-        //Notralizasyon Sistemi
-
-        'NeutralizationSystem': 'Nötralizasyon Sistemi',
+          //Notralizasyon Sistemi
+         'NeutralizationSystem':'Nötralizasyon Sistemi',
 
         //Haberler
         'news': 'Haberler',

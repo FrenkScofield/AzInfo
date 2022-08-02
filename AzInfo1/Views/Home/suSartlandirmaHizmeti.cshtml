@@ -16,7 +16,7 @@
 
             <p class="lang pp1" key="WaterConditioningService">Su Şartlandırma Hizmeti</p>
 
-            <p><a asp-controller="Home" asp-action="Index" class="lang" key="mainPage">Anasayfa</a> &nbsp; > &nbsp; <a class="lang" key="services" href="hizmetler.html">Hizmetler</a> &nbsp; > &nbsp; <a href="#" class="lang" key="WaterConditioningService">Su Şartlandırma Hizmeti</a></p>
+            <p><a asp-controller="Home" asp-action="Index" class="lang" key="mainPage">Anasayfa</a> &nbsp; > &nbsp; <a class="lang" key="services" asp-controller="Home" asp-action="hizmetler">Hizmetler</a> &nbsp; > &nbsp; <a href="#" class="lang" key="WaterConditioningService">Su Şartlandırma Hizmeti</a></p>
 
         </div>
 
@@ -41,49 +41,49 @@
 
                     <div class="list-group">
 
-                        <a href="su-sartlandirma-hizmeti.html" key="WaterConditioningService" class="list-group-item d-flex justify-content-between align-items-center lang">
+                        <a asp-controller="Home" asp-action="suSartlandirmaHizmeti" class="list-group-item d-flex justify-content-between align-items-center lang" key="WaterConditioningService">
 
                             Su Şartlandırma Hizmeti
 
                         </a>
 
-                        <a href="laboratuvar-hizmetleri.html" class="list-group-item d-flex justify-content-between align-items-center lang" key="labService">
+                        <a asp-controller="Home" asp-action="laboratuvarHizmetleri" class="list-group-item d-flex justify-content-between align-items-center lang" key="labService">
 
                             Laboratuvar Hizmetleri
 
                         </a>
 
-                        <a href="legionella-analizleri.html" class="list-group-item d-flex justify-content-between align-items-center">
+                        <a asp-controller="Home" asp-action="legionellaAnalizleri" class="list-group-item d-flex justify-content-between align-items-center">
 
                             Legionella Analizleri
 
                         </a>
 
-                        <a href="geri-kazanim.html" class="list-group-item d-flex justify-content-between align-items-center">
+                        <a asp-controller="Home" asp-action="geriKazanim" class="list-group-item d-flex justify-content-between align-items-center">
 
                             Geri Kazanım
 
                         </a>
 
-                        <a href="sistemlerin-uzaktan-kontrol-edilmesi.html" class="list-group-item d-flex justify-content-between align-items-center">
+                        <a asp-controller="Home" asp-action="sistemlerinUzaktanKontrolEdilmesi" class="list-group-item d-flex justify-content-between align-items-center">
 
                             Sistemlerin Uzaktan Kontrol Edilmesi
 
                         </a>
 
-                        <a href="datalogger-ile-verilen-toplanmasi.html" class="list-group-item d-flex justify-content-between align-items-center">
+                        <a asp-controller="Home" asp-action="dataloggerIleVerilenToplanmasi" class="list-group-item d-flex justify-content-between align-items-center">
 
                             Datalogger İle Verilerin Toplanması
 
                         </a>
 
-                        <a href="ozonla-bakteri-giderim-sistemleri.html" class="list-group-item d-flex justify-content-between align-items-center">
+                        <a asp-controller="Home" asp-action="ozonlaBakteriGiderimSistemleri" class="list-group-item d-flex justify-content-between align-items-center">
 
                             Ozonla Bakteri Giderim Sistemleri
 
                         </a>
 
-                        <a href="notralizasyon-sistemleri.html" class="list-group-item d-flex justify-content-between align-items-center">
+                        <a asp-controller="Home" asp-action="notralizasyonSistemleri" class="list-group-item d-flex justify-content-between align-items-center">
 
                             Nötralizasyon Sistemi
 
