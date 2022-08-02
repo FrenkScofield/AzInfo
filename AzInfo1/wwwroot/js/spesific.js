@@ -781,7 +781,7 @@ function translateLang(lang) {
         $(this).text(arrLang[lang][$(this).attr('key')]);
     });
 }
-
+ 
 $(function () {
     //first check for stored language in localStorage i.e. fetch data from localStorage
     let stored_lang = localStorage.getItem("stored_lang");
@@ -791,3 +791,5 @@ $(function () {
         translateLang(lang);
     }
 });
+
+
