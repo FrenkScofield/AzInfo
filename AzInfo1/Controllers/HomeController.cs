@@ -106,7 +106,18 @@ namespace AzInfo1.Controllers
         {
             return View();
         }
-
+        public IActionResult urunler2()
+        {
+            return View();
+        }
+        public IActionResult haberler()
+        {
+            return View();
+        }
+        public IActionResult haberDetay()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
