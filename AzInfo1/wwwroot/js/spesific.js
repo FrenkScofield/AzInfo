@@ -1,12 +1,12 @@
 
 var arrLang = {
     'tr': {
-        'lngCode': 'TR',
+        'lngCode':'TR',
 
         'ANASAYFA': 'ANASAYFA',
         'KURUMSAL': 'KURUMSAL',
-        'HİZMETLER': 'HİZMETLER',
-        'ÜRÜNLER': 'ÜRÜNLER',
+        'bigservices': 'HİZMETLER',
+        'Products': 'ÜRÜNLER',
         'REFERANSLAR': 'REFERANSLAR',
         'İLETİŞİM': 'İLETİŞİM',
 
@@ -16,14 +16,14 @@ var arrLang = {
 
         'year': 'YILLIK ',
         'esperinceslider': ' SEKTÖREL DENEYİM ',
-        'esperinceslider1': 'Buhar Üretim Sistem Kimyasalları',
-        'esperinceslider2': 'Soğutma Kulesi Sistemleri',
-        'esperinceslider3': 'Kapalı Devre Sistemleri',
-        'esperinceslider4': 'Dezenfeksiyon Ürünleri',
-        'esperinceslider5': 'Kullanım Suyu Hatları',
-        'esperinceslider6': 'Hvac ve Endüstriyel Temizlik Ürünleri',
-        'esperinceslider7': 'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
-        'esperinceslider8': 'Bakteri Uygulamaları',
+ //       'esperinceslider1': 'Buhar Üretim Sistem Kimyasalları',
+ //       'esperinceslider2': 'Soğutma Kulesi Sistemleri',
+ //       'esperinceslider3': 'Kapalı Devre Sistemleri',
+ //       'esperinceslider4': 'Dezenfeksiyon Ürünleri',
+ //       'esperinceslider5': 'Kullanım Suyu Hatları',
+ //       'esperinceslider6': 'Hvac ve Endüstriyel Temizlik Ürünleri',
+ //       'esperinceslider7': 'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
+ //       'esperinceslider8': 'Bakteri Uygulamaları',
 
         //KURUMSAL
         'Institutional': 'Kurumsal',
@@ -37,21 +37,21 @@ var arrLang = {
         //HIZMETLER
         'services': 'Hizmetler',
         'servicesDescription': 'Azinfo, iş-alışveriş merkezleri, oteller, tatil köyleri, hastaneler, üniversiteler, endüstriyel işletmeler ve fabrikaların su şartlandırma ihtiyaçlarını sürekli ve nitelikli servis hizmeti ile sağlamaktadır.',
-        'servicesIteamTitle_1': 'Su Şartlandırma Hizmeti',
+ //       'servicesIteamTitle_1': 'Su Şartlandırma Hizmeti',
         'servicesIteamDescription_1': 'Firmaların sorunlarına göre ihtiyacı olan çözümler üretilir ve uygulamaya alınır. Bu çözümler ve cihazlarımızdan dozaj tanklarına kadar özenle kurmaktayız.',
-        'servicesIteamTitle_2': 'Laboratuvar Hizmetleri',
+ //       'servicesIteamTitle_2': 'Laboratuvar Hizmetleri',
         'servicesIteamDescription_2': 'Saha analiz çantamız ile gittiğimiz her firmada laboratuvar ortamı oluşturup özenle analizler yapıyoruz.',
-        'servicesIteamTitle_3': 'Legionella Analizleri',
+//        'servicesIteamTitle_3': 'Legionella Analizleri',
         'servicesIteamDescription_3': 'Legionella bakterisi doğadaki su kaynaklarından gelen bakterilerdir, binaların su sistemlerine yerleşir ve uygun ortam bulunca çoğalır.',
-        'servicesIteamTitle_4': 'Geri Kazanım',
+ //       'servicesIteamTitle_4': 'Geri Kazanım',
         'servicesIteamDescription_4': 'Soğutma kulesinin blöf suyunun bile inanılmaz bir maliyeti olabilir. Özel sistemler kurularak atık suları geri kazandırıyoruz.',
         'servicesIteamTitle_5': 'Özel Uygulamalar',
-        'servicesIteamSlogan_1': 'Sistemlerin Uzaktan Kontrol Edilmesi',
+ //       'servicesIteamSlogan_1': 'Sistemlerin Uzaktan Kontrol Edilmesi',
         'servicesIteamDescription_5': 'Sisteminizin güncel değerlerini ister ofisinizden isterseniz evinizden görmenizi ve müdahale etmenizi sağlıyoruz. ',
-        'servicesIteamSlogan_2': 'Datalogger İle Verilerin Toplanması',
+//        'servicesIteamSlogan_2': 'Datalogger İle Verilerin Toplanması',
         'servicesIteamDescription_6': 'Datalogger cihazlarımızla iletkenlik, pH gibi cihazlarınızın 4-20 mA çıkış verdiği dataları kaydedebilirsiniz.',
-        'servicesIteamSlogan_3': 'Ozonla Bakteri Giderim Sistemleri',
-        'servicesIteamSlogan_4': 'Nötralizasyon Sistemi',
+ //       'servicesIteamSlogan_3': 'Ozonla Bakteri Giderim Sistemleri',
+ //       'servicesIteamSlogan_4': 'Nötralizasyon Sistemi',
 
         'Industrial': 'Azinfo Endüstriyel',
         'Institutional': 'Kurumsal',
@@ -77,25 +77,25 @@ var arrLang = {
         'footersection2': 'AZINFO AZERBAYCAN',
         'footeradress2': 'Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN',
 
-        'bigservices': 'HIZMETLER',
-        'services1': 'Su Şartlandırma Hizmeti',
-        'services2': 'Laboratuvar Hizmetleri',
-        'services3': 'Legionella Analizleri',
-        'services4': 'Geri Kazanım',
-        'services5': 'Sistemlerin Uzaktan Kontrol Edilmesi',
-        'services6': 'Datalogger İle Verilerin Toplanması',
-        'services7': 'Ozonla Bakteri Giderim Sistemleri',
-        'services8': 'Nötralizasyon Sistemi',
+ //       'bigservices': 'HIZMETLER',
+        //'services1': 'Su Şartlandırma Hizmeti',
+        //'services2': 'Laboratuvar Hizmetleri',
+        //'services3': 'Legionella Analizleri',
+        //'services4': 'Geri Kazanım',
+        //'services5': 'Sistemlerin Uzaktan Kontrol Edilmesi',
+        //'services6': 'Datalogger İle Verilerin Toplanması',
+        //'services7': 'Ozonla Bakteri Giderim Sistemleri',
+        //'services8': 'Nötralizasyon Sistemi',
 
-        'Products': 'ÜRÜNLER',
-        'Products1': 'Buhar Üretim Sistem Kimyasalları',
-        'Products2': 'Soğutma Kulesi Sistemleri',
-        'Products3': 'Kapalı Devre Sistemleri',
-        'Products4': 'Dezenfeksiyon Ürünleri',
-        'Products5': 'Kullanım Suyu Hatları',
-        'Products6': 'HVAC ve Endüstriyel Temizlik Ürünleri',
-        'Products7': 'Ters Osmoz (R.O.)',
-        'Products8': 'Bakteri Uygulamaları',
+        //'Products': 'ÜRÜNLER',
+        //'Products1': 'Buhar Üretim Sistem Kimyasalları',
+        //'Products2': 'Soğutma Kulesi Sistemleri',
+        //'Products3': 'Kapalı Devre Sistemleri',
+        //'Products4': 'Dezenfeksiyon Ürünleri',
+        //'Products5': 'Kullanım Suyu Hatları',
+        //'Products6': 'HVAC ve Endüstriyel Temizlik Ürünleri',
+        //'Products7': 'Ters Osmoz (R.O.)',
+        //'Products8': 'Bakteri Uygulamaları',
 
         'footerend': '2021 © Azinfo Endüstriyel Danışmanlık',
 
@@ -103,15 +103,15 @@ var arrLang = {
 
         'ProductsMain': 'Ürünler',
         'productDiscription': 'Özel donanımlı laboratuvarımızda yaptığımız düzenli analizlerele kiraç, korozyon ve mikrobiyolojik aktivasyon gibi risklere karşı önlem alıyoruz.',
-        'productItemTitle1': 'Buhar Üretim Sistem Kimyasalları',
-        'productItemTitle2': 'Soğutma Kulesi Sistemleri',
-        'productItemTitle3': 'Kapalı Devre Sistemleri',
-        'productItemTitle4': 'Dezenfeksiyon Ürünleri',
-        'productItemTitle5': 'Kullanım Suyu Hatları',
-        'productItemTitle6': 'HVAC ve Endüstriyel Temizlik Ürünleri',
-        'productItemTitle7': 'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
-        'productItemTitle8': 'Bakteri Uygulamaları',
-        'productItemDiscription': 'Detaylı Bilgi',
+ ////       'productItemTitle1': 'Buhar Üretim Sistem Kimyasalları',
+ //       'productItemTitle2': 'Soğutma Kulesi Sistemleri',
+ //       'productItemTitle3': 'Kapalı Devre Sistemleri',
+ //       'productItemTitle4': 'Dezenfeksiyon Ürünleri',
+ //       'productItemTitle5': 'Kullanım Suyu Hatları',
+ //       'productItemTitle6': 'HVAC ve Endüstriyel Temizlik Ürünleri',
+ //       'productItemTitle7': 'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
+ //       'productItemTitle8': 'Bakteri Uygulamaları',
+       'productItemDiscription': 'Detaylı Bilgi',
 
         //REFERANSLAR
 
@@ -121,24 +121,24 @@ var arrLang = {
 
         'contact': 'İletişim',
         'contactName1': 'Azinfo Türkiye',
-        'contactaAdress1': ' Altayçeşme, Çamlı Sok. No:16 DAP Royal Center A Blok K.13 D.57 34843 Maltepe/İstanbul',
+ //       'contactaAdress1': ' Altayçeşme, Çamlı Sok. No:16 DAP Royal Center A Blok K.13 D.57 34843 Maltepe/İstanbul',
         'contactName2': 'Azinfo Bakü',
-        'contactaAdress2': 'Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN',
+ //       'contactaAdress2': 'Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN',
 
         //BAKTERI UYGULAMALARI
 
         'bacteriaApp': 'Bakteri Uygulamaları',
 
-        //SYAFA NAVIQASYON
+        ////SYAFA NAVIQASYON
 
-        'steamNav': 'Buhar Üretim Sistem Kimyasalları',
-        'collingNav': 'Soğutma Kulesi Sistemleri',
-        'closedNav': 'Kapalı Devre Sistemleri',
-        'desinfectionNav': 'Dezenfeksiyon Ürünleri',
-        'domesticNav': 'Kullanım Suyu Hatları',
-        'HVACnav': 'HVAC ve Endüstriyel Temizlik Ürünleri',
-        'reverseNav': 'Ters Osmoz (R.O.)',
-        'bacteriaNav': 'Bakteri Uygulamaları',
+        //'steamNav': 'Buhar Üretim Sistem Kimyasalları',
+        //'collingNav': 'Soğutma Kulesi Sistemleri',
+        //'closedNav': 'Kapalı Devre Sistemleri',
+        //'desinfectionNav': 'Dezenfeksiyon Ürünleri',
+        //'domesticNav': 'Kullanım Suyu Hatları',
+        //'HVACnav': 'HVAC ve Endüstriyel Temizlik Ürünleri',
+        //'reverseNav': 'Ters Osmoz (R.O.)',
+        //'bacteriaNav': 'Bakteri Uygulamaları',
 
         'bacteriaApp12': 'Hizmetler- Bakteri Uygulamaları Yağ giderleri, yağ tutucular, mutfaklar, tuvaletler, musluklar, fosseptikler ve rögarlara uygulanan özel formüllü kimyasallarımız ile;',
         'bacter': 'Mutfak yer giderlerinden gelen kokular ve tıkanma sorunları kesilir.',
@@ -209,7 +209,7 @@ var arrLang = {
         'RO': 'Ters Osmoz (R.O.)',
         'RO1': 'Demir,Kalsiyum Bileşikleri Oluşumuna Karşı Etkili Güçlü Antiskalant',
         'RO2': 'Ters Osmoz (R.O.) Birikinti Önleyici ve Temizlik Ürünleri',
-        'labService': 'Laboratuvar Hizmetleri',
+//      'labService': 'Laboratuvar Hizmetleri',
 
 
           //Legionella Analizleri
@@ -217,8 +217,8 @@ var arrLang = {
           'LegionellaDescription1': 'Legionella bakterisi doğadaki su kaynaklarından gelen bakterilerdir, binaların su sistemlerine yerleşir ve uygun ortam bulunca çoğalır. Özellikle üremesi ve çoğalması için su sıcaklığının 25-42 oC arasında ısıya gerek vardır. Yüksek sıcaklıklarda üremesi durur ve ölmeye başlar, teorik olarak 70oC nin üzerinde yaşaması mümkün değildir.Suyun pH’ı ise 5, 5-8, 5 arasında olmalıdır.Legionella ; Su içinde serbest halde, ameobae içinde(Acanthamoeba sp, Naegleria sp) veya biofilm içerisinde yaşarlar.Korozyon ve biofilm oluşumu sonucu ortaya çıkan nutrientler beslenmesini ve çoğalmasını sağlar.Biofilm, bakteri ile mücadelede dezenfektanın etkinliğini azaltır.Korozyon ise nutrientlerin ortaya çıkmasına neden olur ve biofilm oluşumunu arttırır.Legionella ile mücadelede müşterilerimizde yapılan ziyaretlerimizde bu bakterileri takip etmek amaçlı düzenli aralıklarla numune alınıp İngiltere’deki ileri teknolojiye sahip anlaşmalı laboratuvarımıza yollamaktayız.',
           'LegionellaDescription2': 'Türkiye’de maalesef legionella bakterisinin sayımını yapabilen laboratuvar bulunmamaktadır. Ülkemizde legionella bakterisine gerektiği önem verilmesede bu bakterilerin yayılması aşırı derecede kolaydır. Su zerreciklerinin içerisine yerleşir ve hava yoluyla alınması sonucu vücuda girer. Büyük binalardaki (Otel, hastane, iş ve alışveriş merkezleri, bakım evleri..) soğutma kuleli klima sistemlerinden, duş başlıklarından, musluklardan, jakuzilerden, hamamlardan, bahçe sulama için kullanılan sprinklerden havaya yayılarak, hastanelerde solunum sağlayıcı ekipmanlardan (Nebulizatör, aspiratör, endoskopi..) bulaşır. Bu yüzden Legionella bakterisinin düzenli aralıklarla sayımının yapılması bu sayının kontrol altında tutulması kritik önem taşır.',
 
-        //Ozonla Bakteri Giderim Sistemleri
-        'OBGS': 'Ozonla Bakteri Giderim Sistemleri',
+           //Ozonla Bakteri Giderim Sistemleri
+           'OBGS': 'Ozonla Bakteri Giderim Sistemleri',
 
           //labaratuar hizmetleri
           'labService': 'Laboratuvar Hizmetleri',
@@ -253,12 +253,12 @@ var arrLang = {
 
     },
     'en': {
-        'lngCode': 'EN',
+        'lngCode':'EN',
 
         'ANASAYFA': 'MAIN',
         'KURUMSAL': 'CORPORATE',
-        'HİZMETLER': 'SERVICES',
-        'ÜRÜNLER': 'PRODUCTS',
+        'bigservices': 'SERVICES',
+        'Products': 'PRODUCTS',
         'REFERANSLAR': 'COMMUNUCATION',
         'İLETİŞİM': 'CONTACT',
 
@@ -268,14 +268,14 @@ var arrLang = {
 
         'year': 'YEARLY ',
         'esperinceslider': ' SECTORAL EXPERIENCE',
-        'esperinceslider1': 'Steam Production System Chemicals',
-        'esperinceslider2': 'Cooling Tower Systems',
-        'esperinceslider3': 'Closed Circuit Systems',
-        'esperinceslider4': 'Disinfection Products',
-        'esperinceslider5': 'Domestic Water Lines',
-        'esperinceslider6': 'Hvac and Industrial Cleaning Products',
-        'esperinceslider7': 'Reverse Osmosis (R.O.) Antifouling and Cleaning Products',
-        'esperinceslider8': 'Bacteria Applications',
+        //'esperinceslider1': 'Steam Production System Chemicals',
+        //'esperinceslider2': 'Cooling Tower Systems',
+        //'esperinceslider3': 'Closed Circuit Systems',
+        //'esperinceslider4': 'Disinfection Products',
+        //'esperinceslider5': 'Domestic Water Lines',
+        //'esperinceslider6': 'Hvac and Industrial Cleaning Products',
+        //'esperinceslider7': 'Reverse Osmosis (R.O.) Antifouling and Cleaning Products',
+        //'esperinceslider8': 'Bacteria Applications',
 
         //KURUMSAL
         'Institutional': 'Corporate',
@@ -288,21 +288,21 @@ var arrLang = {
         // HİZMETLER
         'services': 'Services',
         'servicesDescription': 'Azinfo provides water treatment needs of business-shopping centers, hotels, holiday villages, hospitals, universities, industrial enterprises and factories with continuous and qualified service.',
-        'servicesIteamTitle_1': 'Water Conditioning Service',
+//        'servicesIteamTitle_1': 'Water Conditioning Service',
         'servicesIteamDescription_1': 'According to the problems of the companies, the solutions they need are produced and put into practice. We carefully install these solutions and devices from our devices to dosage tanks.',
-        'servicesIteamTitle_2': 'Laboratory Services',
+ //       'servicesIteamTitle_2': 'Laboratory Services',
         'servicesIteamDescription_2': 'With our field analysis bag, we create a laboratory environment in every company we go to and make careful analyzes.',
-        'servicesIteamTitle_3': 'Legionella Analyzes',
+ //       'servicesIteamTitle_3': 'Legionella Analyzes',
         'servicesIteamDescription_3': 'Legionella bacteria are bacteria that come from water sources in nature, settle in the water systems of buildings and multiply when a suitable environment is found.',
-        'servicesIteamTitle_4': 'Regain',
+//        'servicesIteamTitle_4': 'Regain',
         'servicesIteamDescription_4': 'Even blowdown water from a cooling tower can have an unbelievable cost. We recycle wastewater by establishing special systems.',
         'servicesIteamTitle_5': 'Special Applications',
-        'servicesIteamSlogan_1': 'Remote Control of Systems',
+ //       'servicesIteamSlogan_1': 'Remote Control of Systems',
         'servicesIteamDescription_5': 'We enable you to see and intervene the current values of your system from your office or from your home.',
-        'servicesIteamSlogan_2': 'Data Collection with Datalogger',
+ //       'servicesIteamSlogan_2': 'Data Collection with Datalogger',
         'servicesIteamDescription_6': 'With our datalogger devices, you can record the data that your devices such as conductivity and pH output 4-20 mA.',
-        'servicesIteamSlogan_3': 'Bacteria Removal Systems with Ozone',
-        'servicesIteamSlogan_4': 'Neutralization System',
+ //       'servicesIteamSlogan_3': 'Bacteria Removal Systems with Ozone',
+ //       'servicesIteamSlogan_4': 'Neutralization System',
 
         'Industrial': 'Azinfo Industrial',
         'Institutional': 'Institutional',
@@ -329,14 +329,14 @@ var arrLang = {
         'footeradress2': 'Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN',
 
         'bigservices': 'SERVICES',
-        'services1': 'Water Conditioning Service',
-        'services2': 'Laboratory Services',
-        'services3': 'Legionella Analyzes',
-        'services4': 'Regain',
-        'services5': 'Remote Control of Systems',
-        'services6': 'Data Collection with Datalogger',
-        'services7': 'Bacteria Removal Systems with Ozone',
-        'services8': 'Neutralization System',
+        //'services1': 'Water Conditioning Service',
+        //'services2': 'Laboratory Services',
+        //'services3': 'Legionella Analyzes',
+        //'services4': 'Regain',
+        //'services5': 'Remote Control of Systems',
+        //'services6': 'Data Collection with Datalogger',
+        //'services7': 'Bacteria Removal Systems with Ozone',
+        //'services8': 'Neutralization System',
 
         'Products': 'PRODUCTS',
         'Products1': 'Steam Production System Chemicals',
@@ -354,14 +354,14 @@ var arrLang = {
 
         'ProductsMain': 'Products',
         'productDiscription': 'We take precautions against risks such as scale, corrosion and microbiological activation through regular analyzes in our specially equipped laboratory.',
-        'productItemTitle1': 'Steam Production System Chemicals',
-        'productItemTitle2': 'Cooling Tower Systems',
-        'productItemTitle3': 'Closed Circuit Systems',
-        'productItemTitle4': 'Disinfection Products',
-        'productItemTitle5': 'Domestic Water Lines',
-        'productItemTitle6': 'HVAC and Industrial Cleaning Products',
-        'productItemTitle7': 'Reverse Osmosis (R.O.) Antifouling and Cleaning Products',
-        'productItemTitle8': 'Bacteria Applications',
+        //'productItemTitle1': 'Steam Production System Chemicals',
+        //'productItemTitle2': 'Cooling Tower Systems',
+        //'productItemTitle3': 'Closed Circuit Systems',
+        //'productItemTitle4': 'Disinfection Products',
+        //'productItemTitle5': 'Domestic Water Lines',
+        //'productItemTitle6': 'HVAC and Industrial Cleaning Products',
+        //'productItemTitle7': 'Reverse Osmosis (R.O.) Antifouling and Cleaning Products',
+        //'productItemTitle8': 'Bacteria Applications',
         'productItemDiscription': 'More information',
 
         //REFERANSLAR
@@ -372,9 +372,9 @@ var arrLang = {
 
         'contact': 'Contact',
         'contactName1': 'Azinfo Turkey',
-        'contactaAdress1': ' Altayçeşme, Çamlı Sok. No:16 DAP Royal Center A Blok K.13 D.57 34843 Maltepe/İstanbul',
+ //       'contactaAdress1': ' Altayçeşme, Çamlı Sok. No:16 DAP Royal Center A Blok K.13 D.57 34843 Maltepe/İstanbul',
         'contactName2': 'Azinfo Baku',
-        'contactaAdress2': 'Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN',
+//        'contactaAdress2': 'Yasamal Rayonu Ş.Qurbanov Küçesi No: 21 Blok B Mertebe 5 Menzil 8 Baku/AZERBAIJAN',
 
         //BAKTERI UYGULAMALARI
 
@@ -382,14 +382,14 @@ var arrLang = {
 
         //SYAFA NAVIQASYON
 
-        'steamNav': 'Steam Production System Chemicals',
-        'collingNav': 'Cooling Tower Systems',
-        'closedNav': 'Closed Circuit Systems',
-        'desinfectionNav': 'Disinfection Products',
-        'domesticNav': 'Domestic Water Lines',
-        'HVACnav': 'HVAC and Industrial Cleaning Products',
-        'reverseNav': 'Reverse Osmosis (R.O.)',
-        'bacteriaNav': 'Bacteria Applications',
+        //'steamNav': 'Steam Production System Chemicals',
+        //'collingNav': 'Cooling Tower Systems',
+        //'closedNav': 'Closed Circuit Systems',
+        //'desinfectionNav': 'Disinfection Products',
+        //'domesticNav': 'Domestic Water Lines',
+        //'HVACnav': 'HVAC and Industrial Cleaning Products',
+        //'reverseNav': 'Reverse Osmosis (R.O.)',
+        //'bacteriaNav': 'Bacteria Applications',
 
         'bacteriaApp12': 'Services - Bacteria Applications With our specially formulated chemicals applied to oil drains, grease traps, kitchens, toilets, faucets, septic tanks and manholes;',
         'bacter': 'Odors and clogging problems from kitchen floor drains are cut.',
@@ -511,12 +511,12 @@ var arrLang = {
 
     },
     'ru': {
-        'lngCode': 'РУ',
+        'lngCode':'РУ',
 
         'ANASAYFA': 'Главная',
         'KURUMSAL': 'О нас',
-        'HİZMETLER': 'Услуги',
-        'ÜRÜNLER': 'Продукты',
+        'bigservices': 'Услуги',
+        'Products': 'Продукты',
         'REFERANSLAR': 'Сылки',
         'İLETİŞİM': 'Контакты',
 
@@ -526,14 +526,14 @@ var arrLang = {
 
         'year': 'ЕЖЕГОДНО ',
         'esperinceslider': ' ОТРАСЛЕВОЙ ОПЫТ',
-        'esperinceslider1': 'Парогенераторы для химических производств',
-        'esperinceslider2': 'Системы охлаждения',
-        'esperinceslider3': '3амкнутые системы',
-        'esperinceslider4': 'Средства дезинфекции',
-        'esperinceslider5': 'Питьевая вода',
-        'esperinceslider6': 'HVAC и промышленные чистящие средства',
-        'esperinceslider7': 'Обратный осмос (RO) Противообрастающие и чистящие средства',
-        'esperinceslider8': 'Бактериальные аппликации',
+        //'esperinceslider1': 'Парогенераторы для химических производств',
+        //'esperinceslider2': 'Системы охлаждения',
+        //'esperinceslider3': '3амкнутые системы',
+        //'esperinceslider4': 'Средства дезинфекции',
+        //'esperinceslider5': 'Питьевая вода',
+        //'esperinceslider6': 'HVAC и промышленные чистящие средства',
+        //'esperinceslider7': 'Обратный осмос (RO) Противообрастающие и чистящие средства',
+        //'esperinceslider8': 'Бактериальные аппликации',
 
         //KURUMSAL
         'Institutional': 'О нас',
@@ -552,17 +552,17 @@ var arrLang = {
 
         'servicesIteamTitle_2': 'Лабораторные услуги',
         'servicesIteamDescription_2': 'С помощью сумки для анализа воды мы создаем лабораторную среду в каждой компании, в которую мы работаем, и тщательно анализируем ее. Вы можете найти фото и видео о них ниже.',
-        'servicesIteamTitle_3': 'Анализ на Легионеллу',
+//        'servicesIteamTitle_3': 'Анализ на Легионеллу',
         'servicesIteamDescription_3': 'Бактерии легионеллы - это бактерии, которые происходят из водных источников в природе, оседают в системах водоснабжения зданий и размножаются при обнаружении подходящей среды. ',
-        'servicesIteamTitle_4': 'Переработка',
+ //       'servicesIteamTitle_4': 'Переработка',
         'servicesIteamDescription_4': 'Даже продувочная вода для градирни может иметь огромные затраты. Мы перерабатываем сточные воды, устанавливая специальные системы.',
         'servicesIteamTitle_5': 'Специальные приложения',
-        'servicesIteamSlogan_1': 'Удаленное управление системами',
+ //       'servicesIteamSlogan_1': 'Удаленное управление системами',
         'servicesIteamDescription_5': 'Если у вас есть чувствительная система или вы хотите иметь возможность постоянно контролировать свою систему, наши устройства управления удаленным доступом станут тем ответом, который вы ищете',
-        'servicesIteamSlogan_2': 'Сбор данных с помощью регистратора данных',
+ //       'servicesIteamSlogan_2': 'Сбор данных с помощью регистратора данных',
         'servicesIteamDescription_6': 'С помощью наших устройств регистрации данных вы можете записывать данные, которые ваши устройства выдают на выходе 4-20 мА, такие как проводимость и pH, легко переносить их в Excel и рисовать их графики.',
-        'servicesIteamSlogan_3': 'Системы удаления бактерий с озоном.',
-        'servicesIteamSlogan_4': 'Система нейтрализации',
+ //       'servicesIteamSlogan_3': 'Системы удаления бактерий с озоном.',
+ //       'servicesIteamSlogan_4': 'Система нейтрализации',
 
         'Industrial': 'Azinfo Промышленность',
         'Institutional': 'Институциональный',
@@ -614,14 +614,14 @@ var arrLang = {
 
         'ProductsMain': 'Товары',
         'productDiscription': 'Регулярно проводя анализы в нашей специально оборудованной лаборатории, мы принимаем меры предосторожности против таких рисков, как аренда, коррозия и микробиологическая активация.',
-        'productItemTitle1': 'Химические системы парагенераторов ',
-        'productItemTitle2': 'системы охлаждения',
-        'productItemTitle3': 'Замкнутые системы',
-        'productItemTitle4': 'Средства дезинфекции',
-        'productItemTitle5': 'Использование питьевых водопроводов',
-        'productItemTitle6': 'HVAC и промышленные чистящие средства',
-        'productItemTitle7': 'Обратный осмос',
-        'productItemTitle8': 'Применение бактерий',
+        //'productItemTitle1': 'Химические системы парагенераторов ',
+        //'productItemTitle2': 'системы охлаждения',
+        //'productItemTitle3': 'Замкнутые системы',
+        //'productItemTitle4': 'Средства дезинфекции',
+        //'productItemTitle5': 'Использование питьевых водопроводов',
+        //'productItemTitle6': 'HVAC и промышленные чистящие средства',
+        //'productItemTitle7': 'Обратный осмос',
+        //'productItemTitle8': 'Применение бактерий',
         'productItemDiscription': 'Дополнительная информация',
 
         //REFERANSLAR
@@ -632,9 +632,9 @@ var arrLang = {
 
         'contact': 'Контакты',
         'contactName1': 'Azinfo Турция ',
-        'contactaAdress1': 'Altayçeşme, Çamlı Sok. No:16 DAP Royal Center A Блок K.13 D.57 34843 Малтепе/Стамбул',
+        'footeradress1': 'Altayçeşme, Çamlı Sok. No:16 DAP Royal Center A Блок K.13 D.57 34843 Малтепе/Стамбул',
         'contactName2': 'Azinfo Баку',
-        'contactaAdress2': 'Ясамальский район Ш. Гурбанов Село № 21 Блок B Уровень 5 Диапазон 8 Баку/АЗЕРБАЙДЖАН',
+        'footeradress2': 'Ясамальский район Ш. Гурбанов Село № 21 Блок B Уровень 5 Диапазон 8 Баку/АЗЕРБАЙДЖАН',
 
         //BAKTERI UYGULAMALARI
 
@@ -642,14 +642,14 @@ var arrLang = {
 
         //SYAFA NAVIQASYON
 
-        'steamNav': 'Химические системы парагенераторов',
-        'collingNav': 'системы охлаждения',
-        'closedNav': 'Замкнутые системы',
-        'desinfectionNav': 'Средства дезинфекции',
-        'domesticNav': 'Использование питьевых водопроводов',
-        'HVACnav': 'HVAC и промышленные чистящие средства',
-        'reverseNav': 'Обратный осмос',
-        'bacteriaNav': 'Применение бактерий',
+        //'steamNav': 'Химические системы парагенераторов',
+        //'collingNav': 'системы охлаждения',
+        //'closedNav': 'Замкнутые системы',
+        //'desinfectionNav': 'Средства дезинфекции',
+        //'domesticNav': 'Использование питьевых водопроводов',
+        //'HVACnav': 'HVAC и промышленные чистящие средства',
+        //'reverseNav': 'Обратный осмос',
+        //'bacteriaNav': 'Применение бактерий',
 
         'bacteriaApp12': 'Услуги - Применение бактерий. С нашими специально разработанными химическими веществами, применяемыми для маслосливов, маслоудержателей, кухонь, туалетов, кранов, септиков и люков;',
         'bacter': 'Устранены запахи и проблемы с засорением, исходящие от сточных вод на кухне.',
